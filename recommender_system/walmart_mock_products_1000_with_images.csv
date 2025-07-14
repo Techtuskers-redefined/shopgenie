@@ -1,0 +1,1001 @@
+name,brand,category,aisle,price,image_url,description,on_offer,discount_percent,stock,is_sponsored,tags
+General Mills Pasta Item 1,General Mills,Pasta,6,4.44,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from General Mills.,False,0.0,41,False,"non-GMO, heart healthy, vegan"
+General Mills Pet Food Item 2,General Mills,Pet Food,12,6.88,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from General Mills.,False,0.0,46,False,organic
+Heinz Cleaning Item 3,Heinz,Cleaning,10,22.98,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Heinz.,False,0.0,25,False,"vegan, organic"
+Quaker Beverages Item 4,Quaker,Beverages,4,11.4,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Quaker.,False,0.0,28,True,"organic, low sugar"
+Barilla Vegetables Item 5,Barilla,Vegetables,1,5.84,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Barilla.,False,0.0,46,False,"vegan, organic, gluten-free"
+Kellogg's Dairy Item 6,Kellogg's,Dairy,2,23.61,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Kellogg's.,False,0.0,11,True,"non-GMO, low sugar"
+Dove Meat Item 7,Dove,Meat,9,6.93,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Dove.,False,0.0,25,False,low fat
+Nestle Pet Food Item 8,Nestle,Pet Food,12,5.42,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Nestle.,False,0.0,43,False,"heart healthy, low sugar, organic"
+Heinz Cleaning Item 9,Heinz,Cleaning,10,11.87,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Heinz.,False,0.0,27,False,"organic, non-GMO, heart healthy"
+Quaker Pet Food Item 10,Quaker,Pet Food,12,11.08,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Quaker.,True,13.8,29,False,"low fat, gluten-free"
+Colgate Condiments Item 11,Colgate,Condiments,3,18.48,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Colgate.,False,0.0,18,False,low fat
+Quaker Toiletries Item 12,Quaker,Toiletries,11,5.15,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Quaker.,True,5.9,48,False,non-GMO
+Barilla Bakery Item 13,Barilla,Bakery,7,19.85,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Barilla.,True,9.2,43,False,gluten-free
+Dove Cereal Item 14,Dove,Cereal,3,10.39,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Dove.,False,0.0,23,False,"high protein, organic, vegan"
+Barilla Meat Item 15,Barilla,Meat,9,5.05,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Barilla.,True,15.7,15,False,vegan
+Kellogg's Dairy Item 16,Kellogg's,Dairy,2,10.26,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Kellogg's.,False,0.0,30,False,"heart healthy, non-GMO, low sugar"
+General Mills Snacks Item 17,General Mills,Snacks,5,16.9,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from General Mills.,True,5.2,10,False,"gluten-free, organic, vegan"
+Quaker Dairy Item 18,Quaker,Dairy,2,16.39,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Quaker.,False,0.0,46,False,"heart healthy, high protein, gluten-free"
+Dove Bakery Item 19,Dove,Bakery,7,18.32,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Dove.,False,0.0,33,False,"high protein, low fat, non-GMO"
+Great Value Frozen Item 20,Great Value,Frozen,8,23.84,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Great Value.,False,0.0,0,True,"vegan, low sugar"
+Colgate Pet Food Item 21,Colgate,Pet Food,12,13.82,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Colgate.,True,18.3,9,False,"organic, non-GMO, low sugar"
+Nestle Pet Food Item 22,Nestle,Pet Food,12,14.6,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Nestle.,True,15.4,47,False,"heart healthy, non-GMO, high protein"
+Quaker Cleaning Item 23,Quaker,Cleaning,10,24.58,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Quaker.,False,0.0,29,False,"low sugar, organic"
+Colgate Beverages Item 24,Colgate,Beverages,4,3.58,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Colgate.,False,0.0,29,False,"vegan, gluten-free, low fat"
+Great Value Beverages Item 25,Great Value,Beverages,4,14.58,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Great Value.,False,0.0,18,False,"non-GMO, high protein"
+Colgate Vegetables Item 26,Colgate,Vegetables,1,9.21,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Colgate.,False,0.0,21,True,"low sugar, high protein, low fat"
+Nestle Bakery Item 27,Nestle,Bakery,7,22.93,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Nestle.,False,0.0,2,True,"vegan, low sugar, gluten-free"
+Dove Meat Item 28,Dove,Meat,9,16.82,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Dove.,True,16.5,2,False,"vegan, low fat"
+Barilla Fruits Item 29,Barilla,Fruits,1,24.4,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Barilla.,False,0.0,5,False,low sugar
+Nestle Fruits Item 30,Nestle,Fruits,1,5.54,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Nestle.,False,0.0,29,False,"gluten-free, heart healthy, vegan"
+Kellogg's Fruits Item 31,Kellogg's,Fruits,1,21.52,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Kellogg's.,False,0.0,29,False,"vegan, low fat, gluten-free"
+Heinz Toiletries Item 32,Heinz,Toiletries,11,24.49,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Heinz.,True,26.4,31,False,"heart healthy, non-GMO"
+Colgate Bakery Item 33,Colgate,Bakery,7,24.82,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Colgate.,True,22.0,28,False,"heart healthy, low fat, low sugar"
+General Mills Cleaning Item 34,General Mills,Cleaning,10,3.32,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from General Mills.,False,0.0,6,False,"heart healthy, low sugar"
+Nestle Pet Food Item 35,Nestle,Pet Food,12,12.17,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Nestle.,True,8.8,23,False,"low fat, high protein, heart healthy"
+Barilla Pet Food Item 36,Barilla,Pet Food,12,13.63,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Barilla.,False,0.0,13,False,non-GMO
+General Mills Frozen Item 37,General Mills,Frozen,8,7.68,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from General Mills.,False,0.0,2,False,"low sugar, non-GMO"
+General Mills Condiments Item 38,General Mills,Condiments,3,17.93,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from General Mills.,True,12.0,15,False,low fat
+General Mills Frozen Item 39,General Mills,Frozen,8,24.43,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from General Mills.,True,20.8,42,True,"gluten-free, organic, vegan"
+Barilla Pasta Item 40,Barilla,Pasta,6,12.91,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Barilla.,False,0.0,22,False,gluten-free
+Great Value Snacks Item 41,Great Value,Snacks,5,8.29,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Great Value.,False,0.0,34,False,"gluten-free, vegan"
+Dove Vegetables Item 42,Dove,Vegetables,1,6.47,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Dove.,False,0.0,38,True,"gluten-free, vegan"
+Kellogg's Meat Item 43,Kellogg's,Meat,9,18.65,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Kellogg's.,True,15.8,39,False,low fat
+Quaker Beverages Item 44,Quaker,Beverages,4,8.75,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Quaker.,False,0.0,25,True,low sugar
+Dove Beverages Item 45,Dove,Beverages,4,9.37,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Dove.,False,0.0,49,False,non-GMO
+Campbell's Meat Item 46,Campbell's,Meat,9,8.82,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Campbell's.,False,0.0,17,False,"non-GMO, high protein"
+Quaker Pet Food Item 47,Quaker,Pet Food,12,13.04,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Quaker.,False,0.0,20,False,low fat
+General Mills Dairy Item 48,General Mills,Dairy,2,6.31,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from General Mills.,True,17.4,10,False,"heart healthy, high protein, low sugar"
+Heinz Dairy Item 49,Heinz,Dairy,2,15.07,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Heinz.,True,21.2,26,False,gluten-free
+Nestle Toiletries Item 50,Nestle,Toiletries,11,13.8,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Nestle.,False,0.0,13,False,"low fat, organic"
+Heinz Dairy Item 51,Heinz,Dairy,2,16.38,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Heinz.,False,0.0,1,False,low fat
+Nestle Vegetables Item 52,Nestle,Vegetables,1,5.98,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Nestle.,False,0.0,2,False,"high protein, vegan"
+Campbell's Pasta Item 53,Campbell's,Pasta,6,2.28,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Campbell's.,False,0.0,8,False,"non-GMO, high protein, organic"
+Colgate Vegetables Item 54,Colgate,Vegetables,1,21.9,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Colgate.,False,0.0,10,False,"low fat, organic"
+Heinz Pasta Item 55,Heinz,Pasta,6,14.04,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Heinz.,False,0.0,10,False,heart healthy
+Campbell's Cleaning Item 56,Campbell's,Cleaning,10,15.46,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Campbell's.,False,0.0,39,False,"heart healthy, low sugar"
+Barilla Fruits Item 57,Barilla,Fruits,1,12.68,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Barilla.,False,0.0,50,False,heart healthy
+Colgate Cleaning Item 58,Colgate,Cleaning,10,15.64,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Colgate.,False,0.0,16,True,low fat
+Barilla Cereal Item 59,Barilla,Cereal,3,4.88,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Barilla.,False,0.0,46,False,heart healthy
+Heinz Bakery Item 60,Heinz,Bakery,7,2.31,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Heinz.,False,0.0,25,False,"low sugar, organic"
+Campbell's Snacks Item 61,Campbell's,Snacks,5,6.25,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Campbell's.,False,0.0,48,False,"gluten-free, vegan"
+Colgate Pet Food Item 62,Colgate,Pet Food,12,3.72,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Colgate.,False,0.0,32,True,"heart healthy, vegan, organic"
+Barilla Cleaning Item 63,Barilla,Cleaning,10,10.99,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Barilla.,False,0.0,6,False,vegan
+Campbell's Pet Food Item 64,Campbell's,Pet Food,12,5.67,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Campbell's.,False,0.0,7,False,"vegan, organic, low fat"
+Quaker Snacks Item 65,Quaker,Snacks,5,1.82,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Quaker.,False,0.0,6,False,"vegan, low fat"
+Kellogg's Condiments Item 66,Kellogg's,Condiments,3,4.88,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Kellogg's.,False,0.0,39,False,"heart healthy, gluten-free, vegan"
+Great Value Beverages Item 67,Great Value,Beverages,4,24.53,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Great Value.,False,0.0,46,True,low fat
+Quaker Vegetables Item 68,Quaker,Vegetables,1,12.4,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Quaker.,False,0.0,19,False,"low sugar, gluten-free"
+Barilla Pasta Item 69,Barilla,Pasta,6,8.01,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Barilla.,False,0.0,37,False,gluten-free
+Kellogg's Beverages Item 70,Kellogg's,Beverages,4,21.79,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Kellogg's.,True,11.1,12,False,"non-GMO, vegan, heart healthy"
+Heinz Toiletries Item 71,Heinz,Toiletries,11,15.09,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Heinz.,False,0.0,11,False,"low sugar, heart healthy"
+Dove Cereal Item 72,Dove,Cereal,3,1.67,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Dove.,False,0.0,40,False,vegan
+General Mills Pet Food Item 73,General Mills,Pet Food,12,14.04,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from General Mills.,False,0.0,47,False,"gluten-free, low fat"
+Colgate Beverages Item 74,Colgate,Beverages,4,10.25,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Colgate.,False,0.0,0,False,"low sugar, heart healthy"
+Great Value Dairy Item 75,Great Value,Dairy,2,8.34,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Great Value.,False,0.0,37,False,"heart healthy, vegan"
+Campbell's Snacks Item 76,Campbell's,Snacks,5,19.33,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Campbell's.,True,14.3,5,False,low fat
+Great Value Pet Food Item 77,Great Value,Pet Food,12,24.23,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Great Value.,False,0.0,40,False,"low sugar, heart healthy"
+Quaker Condiments Item 78,Quaker,Condiments,3,20.57,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Quaker.,True,25.9,23,False,"high protein, low sugar"
+Quaker Frozen Item 79,Quaker,Frozen,8,18.97,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Quaker.,False,0.0,4,False,"vegan, heart healthy"
+Great Value Cereal Item 80,Great Value,Cereal,3,9.44,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Great Value.,True,5.8,37,False,"gluten-free, organic"
+Barilla Frozen Item 81,Barilla,Frozen,8,6.53,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Barilla.,False,0.0,33,False,non-GMO
+Great Value Bakery Item 82,Great Value,Bakery,7,13.07,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Great Value.,True,29.7,43,True,"vegan, organic"
+Colgate Dairy Item 83,Colgate,Dairy,2,9.68,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Colgate.,False,0.0,17,True,"vegan, low sugar, heart healthy"
+Heinz Cleaning Item 84,Heinz,Cleaning,10,6.16,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Heinz.,True,22.7,26,False,non-GMO
+Great Value Cereal Item 85,Great Value,Cereal,3,14.51,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Great Value.,False,0.0,9,False,non-GMO
+Nestle Vegetables Item 86,Nestle,Vegetables,1,24.04,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Nestle.,False,0.0,42,False,"vegan, organic"
+Barilla Fruits Item 87,Barilla,Fruits,1,15.27,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Barilla.,True,19.9,45,False,"high protein, organic"
+Campbell's Condiments Item 88,Campbell's,Condiments,3,17.16,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Campbell's.,False,0.0,10,False,"heart healthy, low fat"
+General Mills Pasta Item 89,General Mills,Pasta,6,14.47,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from General Mills.,False,0.0,28,False,"low fat, vegan"
+Barilla Dairy Item 90,Barilla,Dairy,2,12.8,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Barilla.,True,15.5,4,False,"low sugar, vegan"
+Quaker Cleaning Item 91,Quaker,Cleaning,10,13.13,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Quaker.,True,22.8,8,False,"organic, vegan"
+Quaker Snacks Item 92,Quaker,Snacks,5,9.55,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Quaker.,False,0.0,48,False,"organic, heart healthy"
+Dove Meat Item 93,Dove,Meat,9,18.17,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Dove.,False,0.0,25,False,"low sugar, non-GMO, organic"
+Great Value Cleaning Item 94,Great Value,Cleaning,10,21.35,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Great Value.,False,0.0,39,False,"vegan, low fat"
+Campbell's Meat Item 95,Campbell's,Meat,9,15.88,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Campbell's.,False,0.0,37,False,non-GMO
+General Mills Meat Item 96,General Mills,Meat,9,22.67,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from General Mills.,True,14.3,23,True,"low fat, high protein, vegan"
+Kellogg's Frozen Item 97,Kellogg's,Frozen,8,13.87,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Kellogg's.,False,0.0,4,False,"non-GMO, high protein, heart healthy"
+Great Value Beverages Item 98,Great Value,Beverages,4,3.95,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Great Value.,False,0.0,37,False,"organic, high protein"
+General Mills Pasta Item 99,General Mills,Pasta,6,21.23,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from General Mills.,False,0.0,46,False,"high protein, low fat"
+Barilla Bakery Item 100,Barilla,Bakery,7,20.5,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Barilla.,False,0.0,20,False,"non-GMO, vegan"
+Dove Cereal Item 101,Dove,Cereal,3,17.03,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Dove.,False,0.0,14,False,"vegan, gluten-free, high protein"
+Heinz Cereal Item 102,Heinz,Cereal,3,19.09,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Heinz.,False,0.0,3,False,"organic, high protein, non-GMO"
+General Mills Beverages Item 103,General Mills,Beverages,4,6.18,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from General Mills.,False,0.0,36,False,"vegan, low fat, high protein"
+Kellogg's Condiments Item 104,Kellogg's,Condiments,3,1.67,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Kellogg's.,False,0.0,49,False,organic
+Campbell's Cereal Item 105,Campbell's,Cereal,3,17.4,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Campbell's.,True,23.0,7,False,heart healthy
+Great Value Vegetables Item 106,Great Value,Vegetables,1,10.41,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Great Value.,True,8.8,28,False,"high protein, heart healthy"
+Great Value Bakery Item 107,Great Value,Bakery,7,17.13,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Great Value.,False,0.0,17,False,"high protein, heart healthy, low sugar"
+Campbell's Toiletries Item 108,Campbell's,Toiletries,11,13.41,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Campbell's.,True,25.1,7,True,"organic, heart healthy, low sugar"
+Nestle Cereal Item 109,Nestle,Cereal,3,20.67,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Nestle.,False,0.0,20,False,"low fat, high protein, gluten-free"
+Barilla Meat Item 110,Barilla,Meat,9,6.37,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Barilla.,False,0.0,13,False,high protein
+Kellogg's Dairy Item 111,Kellogg's,Dairy,2,21.61,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Kellogg's.,False,0.0,24,False,"heart healthy, non-GMO"
+Quaker Pet Food Item 112,Quaker,Pet Food,12,19.6,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Quaker.,False,0.0,31,False,vegan
+Campbell's Dairy Item 113,Campbell's,Dairy,2,17.53,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Campbell's.,False,0.0,5,False,"gluten-free, non-GMO, vegan"
+Campbell's Toiletries Item 114,Campbell's,Toiletries,11,14.61,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Campbell's.,True,24.3,0,True,"high protein, gluten-free, vegan"
+Nestle Pasta Item 115,Nestle,Pasta,6,11.88,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Nestle.,True,24.3,14,False,high protein
+Campbell's Condiments Item 116,Campbell's,Condiments,3,7.45,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Campbell's.,False,0.0,45,False,low sugar
+Barilla Frozen Item 117,Barilla,Frozen,8,17.18,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Barilla.,False,0.0,18,False,"gluten-free, low sugar, low fat"
+Barilla Frozen Item 118,Barilla,Frozen,8,14.24,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Barilla.,True,5.5,44,False,"vegan, low sugar, non-GMO"
+Dove Cleaning Item 119,Dove,Cleaning,10,10.78,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Dove.,False,0.0,1,False,"heart healthy, high protein, organic"
+General Mills Bakery Item 120,General Mills,Bakery,7,16.9,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from General Mills.,False,0.0,49,False,low sugar
+Kellogg's Vegetables Item 121,Kellogg's,Vegetables,1,8.69,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Kellogg's.,False,0.0,16,False,"non-GMO, high protein, heart healthy"
+Nestle Cleaning Item 122,Nestle,Cleaning,10,14.69,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Nestle.,False,0.0,21,False,"heart healthy, gluten-free, non-GMO"
+Barilla Vegetables Item 123,Barilla,Vegetables,1,9.24,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Barilla.,False,0.0,8,False,"low fat, organic, non-GMO"
+Dove Cereal Item 124,Dove,Cereal,3,11.56,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Dove.,False,0.0,49,False,"low fat, organic"
+Campbell's Bakery Item 125,Campbell's,Bakery,7,12.04,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Campbell's.,True,12.2,31,False,"heart healthy, low fat, vegan"
+Great Value Dairy Item 126,Great Value,Dairy,2,3.39,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Great Value.,False,0.0,34,False,high protein
+Nestle Cleaning Item 127,Nestle,Cleaning,10,17.58,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Nestle.,False,0.0,27,False,"high protein, non-GMO"
+Campbell's Toiletries Item 128,Campbell's,Toiletries,11,20.73,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Campbell's.,False,0.0,43,False,heart healthy
+Great Value Dairy Item 129,Great Value,Dairy,2,19.98,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Great Value.,False,0.0,29,False,"non-GMO, gluten-free"
+Barilla Pasta Item 130,Barilla,Pasta,6,14.36,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Barilla.,False,0.0,23,False,organic
+Dove Dairy Item 131,Dove,Dairy,2,15.98,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Dove.,True,17.7,47,True,"heart healthy, gluten-free, low fat"
+Dove Toiletries Item 132,Dove,Toiletries,11,14.63,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Dove.,False,0.0,39,False,"organic, low fat, high protein"
+Colgate Snacks Item 133,Colgate,Snacks,5,16.63,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Colgate.,True,12.8,39,False,"gluten-free, vegan, high protein"
+General Mills Cereal Item 134,General Mills,Cereal,3,23.04,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from General Mills.,False,0.0,2,False,"low fat, non-GMO"
+Nestle Snacks Item 135,Nestle,Snacks,5,4.23,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Nestle.,False,0.0,47,False,high protein
+Great Value Vegetables Item 136,Great Value,Vegetables,1,17.27,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Great Value.,False,0.0,1,False,"low sugar, gluten-free, vegan"
+General Mills Cereal Item 137,General Mills,Cereal,3,19.98,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from General Mills.,False,0.0,23,False,non-GMO
+Quaker Pet Food Item 138,Quaker,Pet Food,12,11.12,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Quaker.,True,6.7,46,False,vegan
+Barilla Cleaning Item 139,Barilla,Cleaning,10,16.74,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Barilla.,False,0.0,45,False,"organic, non-GMO"
+Colgate Bakery Item 140,Colgate,Bakery,7,18.64,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Colgate.,True,18.5,10,False,"non-GMO, gluten-free, low sugar"
+General Mills Cleaning Item 141,General Mills,Cleaning,10,7.51,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from General Mills.,False,0.0,34,False,"organic, low sugar"
+Heinz Vegetables Item 142,Heinz,Vegetables,1,19.1,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Heinz.,False,0.0,45,False,"vegan, low sugar, organic"
+Dove Pasta Item 143,Dove,Pasta,6,18.4,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Dove.,False,0.0,49,False,"heart healthy, high protein"
+Barilla Pet Food Item 144,Barilla,Pet Food,12,5.89,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Barilla.,True,8.6,5,False,non-GMO
+Heinz Vegetables Item 145,Heinz,Vegetables,1,14.71,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Heinz.,False,0.0,27,False,"low sugar, non-GMO"
+Colgate Toiletries Item 146,Colgate,Toiletries,11,14.8,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Colgate.,False,0.0,9,False,"low fat, organic"
+Kellogg's Dairy Item 147,Kellogg's,Dairy,2,21.21,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Kellogg's.,False,0.0,24,False,gluten-free
+Colgate Fruits Item 148,Colgate,Fruits,1,12.24,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Colgate.,False,0.0,22,False,heart healthy
+Great Value Pasta Item 149,Great Value,Pasta,6,21.16,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Great Value.,True,6.9,25,False,low fat
+Great Value Cleaning Item 150,Great Value,Cleaning,10,9.35,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Great Value.,False,0.0,17,False,"low fat, non-GMO"
+Barilla Toiletries Item 151,Barilla,Toiletries,11,19.13,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Barilla.,False,0.0,40,False,"non-GMO, high protein"
+Campbell's Cleaning Item 152,Campbell's,Cleaning,10,3.42,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Campbell's.,True,15.8,24,False,non-GMO
+Great Value Condiments Item 153,Great Value,Condiments,3,6.46,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Great Value.,False,0.0,31,False,"vegan, heart healthy, non-GMO"
+Kellogg's Cleaning Item 154,Kellogg's,Cleaning,10,13.24,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Kellogg's.,False,0.0,38,False,"low fat, non-GMO, low sugar"
+Quaker Pet Food Item 155,Quaker,Pet Food,12,24.4,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Quaker.,False,0.0,49,False,"heart healthy, non-GMO"
+Nestle Fruits Item 156,Nestle,Fruits,1,19.12,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Nestle.,True,23.8,14,False,organic
+Quaker Toiletries Item 157,Quaker,Toiletries,11,6.49,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Quaker.,True,21.2,47,False,"high protein, non-GMO"
+Nestle Cereal Item 158,Nestle,Cereal,3,4.56,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Nestle.,True,22.0,40,False,"heart healthy, non-GMO"
+Colgate Cleaning Item 159,Colgate,Cleaning,10,8.89,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Colgate.,False,0.0,41,False,"vegan, gluten-free, heart healthy"
+General Mills Beverages Item 160,General Mills,Beverages,4,10.5,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from General Mills.,False,0.0,15,True,heart healthy
+Barilla Fruits Item 161,Barilla,Fruits,1,13.03,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Barilla.,False,0.0,43,False,gluten-free
+Quaker Pet Food Item 162,Quaker,Pet Food,12,14.22,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Quaker.,False,0.0,19,False,"heart healthy, gluten-free"
+General Mills Vegetables Item 163,General Mills,Vegetables,1,18.23,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from General Mills.,False,0.0,2,False,low fat
+Great Value Beverages Item 164,Great Value,Beverages,4,4.37,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Great Value.,False,0.0,14,False,"non-GMO, low fat, gluten-free"
+Great Value Pasta Item 165,Great Value,Pasta,6,10.15,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Great Value.,False,0.0,7,False,"heart healthy, organic, vegan"
+Heinz Toiletries Item 166,Heinz,Toiletries,11,17.28,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Heinz.,False,0.0,42,False,non-GMO
+Campbell's Bakery Item 167,Campbell's,Bakery,7,6.44,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Campbell's.,True,8.7,4,False,vegan
+Kellogg's Frozen Item 168,Kellogg's,Frozen,8,11.81,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Kellogg's.,False,0.0,20,False,"low sugar, high protein, organic"
+Heinz Cleaning Item 169,Heinz,Cleaning,10,11.92,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Heinz.,False,0.0,42,False,low sugar
+Dove Condiments Item 170,Dove,Condiments,3,17.35,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Dove.,False,0.0,5,False,"non-GMO, low fat, organic"
+Quaker Cereal Item 171,Quaker,Cereal,3,11.0,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Quaker.,True,22.2,21,False,"heart healthy, high protein"
+Colgate Snacks Item 172,Colgate,Snacks,5,20.19,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Colgate.,False,0.0,1,False,heart healthy
+Dove Cleaning Item 173,Dove,Cleaning,10,12.61,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Dove.,False,0.0,26,True,organic
+Kellogg's Pasta Item 174,Kellogg's,Pasta,6,11.22,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Kellogg's.,False,0.0,15,False,"organic, heart healthy"
+Nestle Bakery Item 175,Nestle,Bakery,7,10.32,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Nestle.,False,0.0,29,False,low fat
+Quaker Snacks Item 176,Quaker,Snacks,5,19.83,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Quaker.,False,0.0,1,False,"high protein, organic, non-GMO"
+Barilla Vegetables Item 177,Barilla,Vegetables,1,5.94,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Barilla.,False,0.0,41,False,non-GMO
+Campbell's Beverages Item 178,Campbell's,Beverages,4,15.14,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Campbell's.,True,7.8,35,False,organic
+Kellogg's Beverages Item 179,Kellogg's,Beverages,4,4.69,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Kellogg's.,False,0.0,29,False,"non-GMO, low fat"
+Colgate Beverages Item 180,Colgate,Beverages,4,4.84,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Colgate.,True,15.1,18,False,"organic, non-GMO"
+Barilla Meat Item 181,Barilla,Meat,9,3.72,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Barilla.,False,0.0,36,False,"organic, non-GMO, high protein"
+Colgate Meat Item 182,Colgate,Meat,9,7.54,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Colgate.,True,29.1,19,False,non-GMO
+Heinz Vegetables Item 183,Heinz,Vegetables,1,16.27,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Heinz.,True,29.1,41,False,"low sugar, organic"
+Colgate Condiments Item 184,Colgate,Condiments,3,9.79,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Colgate.,False,0.0,41,False,"organic, low sugar"
+Barilla Condiments Item 185,Barilla,Condiments,3,6.08,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Barilla.,False,0.0,2,False,"low sugar, heart healthy"
+Quaker Frozen Item 186,Quaker,Frozen,8,21.29,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Quaker.,True,15.7,7,False,gluten-free
+Colgate Bakery Item 187,Colgate,Bakery,7,4.29,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Colgate.,False,0.0,18,True,low sugar
+General Mills Snacks Item 188,General Mills,Snacks,5,14.09,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from General Mills.,True,18.6,26,True,vegan
+Quaker Toiletries Item 189,Quaker,Toiletries,11,2.11,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Quaker.,False,0.0,32,False,vegan
+Barilla Vegetables Item 190,Barilla,Vegetables,1,11.69,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Barilla.,False,0.0,25,False,low fat
+Kellogg's Pet Food Item 191,Kellogg's,Pet Food,12,10.12,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Kellogg's.,False,0.0,5,False,"non-GMO, heart healthy, organic"
+Barilla Beverages Item 192,Barilla,Beverages,4,15.2,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Barilla.,False,0.0,44,False,"gluten-free, low fat"
+Quaker Dairy Item 193,Quaker,Dairy,2,22.0,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Quaker.,False,0.0,48,False,"vegan, low sugar"
+Kellogg's Fruits Item 194,Kellogg's,Fruits,1,4.59,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Kellogg's.,True,15.7,10,False,"high protein, low fat, vegan"
+Kellogg's Condiments Item 195,Kellogg's,Condiments,3,20.38,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Kellogg's.,True,22.7,10,True,heart healthy
+Dove Cereal Item 196,Dove,Cereal,3,6.94,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Dove.,True,8.5,48,False,"non-GMO, low sugar"
+Quaker Snacks Item 197,Quaker,Snacks,5,17.37,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Quaker.,False,0.0,2,False,"high protein, non-GMO, gluten-free"
+Nestle Snacks Item 198,Nestle,Snacks,5,13.43,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Nestle.,True,8.5,20,True,"low fat, organic, low sugar"
+Colgate Fruits Item 199,Colgate,Fruits,1,21.73,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Colgate.,False,0.0,5,True,"low sugar, low fat, high protein"
+General Mills Fruits Item 200,General Mills,Fruits,1,19.75,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from General Mills.,False,0.0,14,False,non-GMO
+Great Value Fruits Item 201,Great Value,Fruits,1,6.77,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Great Value.,False,0.0,36,False,"low fat, low sugar, gluten-free"
+Heinz Snacks Item 202,Heinz,Snacks,5,20.79,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Heinz.,False,0.0,45,False,"low sugar, heart healthy"
+Quaker Dairy Item 203,Quaker,Dairy,2,2.98,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Quaker.,False,0.0,49,False,"non-GMO, high protein, low sugar"
+Great Value Cereal Item 204,Great Value,Cereal,3,4.05,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Great Value.,True,18.4,7,False,high protein
+Nestle Snacks Item 205,Nestle,Snacks,5,9.87,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Nestle.,False,0.0,33,False,low fat
+Quaker Cereal Item 206,Quaker,Cereal,3,24.01,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Quaker.,False,0.0,0,False,"organic, gluten-free"
+Heinz Condiments Item 207,Heinz,Condiments,3,15.37,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Heinz.,False,0.0,46,False,organic
+Kellogg's Condiments Item 208,Kellogg's,Condiments,3,12.4,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Kellogg's.,False,0.0,1,False,"high protein, low sugar"
+General Mills Dairy Item 209,General Mills,Dairy,2,15.32,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from General Mills.,False,0.0,34,False,"low sugar, high protein, organic"
+Nestle Pet Food Item 210,Nestle,Pet Food,12,8.35,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Nestle.,False,0.0,27,False,"heart healthy, low sugar"
+Barilla Condiments Item 211,Barilla,Condiments,3,12.69,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Barilla.,False,0.0,13,False,"non-GMO, high protein, organic"
+Quaker Condiments Item 212,Quaker,Condiments,3,5.61,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Quaker.,True,14.8,50,False,"high protein, gluten-free, low sugar"
+Great Value Dairy Item 213,Great Value,Dairy,2,3.67,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Great Value.,False,0.0,45,True,low sugar
+Colgate Snacks Item 214,Colgate,Snacks,5,4.11,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Colgate.,False,0.0,29,False,heart healthy
+Nestle Cereal Item 215,Nestle,Cereal,3,9.79,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Nestle.,False,0.0,37,False,"low fat, organic"
+General Mills Snacks Item 216,General Mills,Snacks,5,23.5,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from General Mills.,False,0.0,43,False,"gluten-free, low sugar"
+Barilla Fruits Item 217,Barilla,Fruits,1,3.99,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Barilla.,False,0.0,16,False,"heart healthy, non-GMO, low fat"
+Campbell's Meat Item 218,Campbell's,Meat,9,2.37,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Campbell's.,False,0.0,43,False,"low sugar, organic, high protein"
+Nestle Cereal Item 219,Nestle,Cereal,3,20.35,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Nestle.,False,0.0,14,False,"vegan, non-GMO"
+Campbell's Frozen Item 220,Campbell's,Frozen,8,7.75,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Campbell's.,False,0.0,28,False,"vegan, high protein"
+Quaker Frozen Item 221,Quaker,Frozen,8,18.07,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Quaker.,False,0.0,48,False,heart healthy
+Campbell's Cleaning Item 222,Campbell's,Cleaning,10,12.18,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Campbell's.,False,0.0,50,True,"organic, low sugar"
+Quaker Condiments Item 223,Quaker,Condiments,3,12.19,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Quaker.,False,0.0,12,False,"gluten-free, heart healthy, low sugar"
+Quaker Cereal Item 224,Quaker,Cereal,3,18.21,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Quaker.,False,0.0,36,False,"gluten-free, low fat, non-GMO"
+General Mills Pasta Item 225,General Mills,Pasta,6,7.54,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from General Mills.,False,0.0,11,True,"low fat, vegan"
+Campbell's Snacks Item 226,Campbell's,Snacks,5,23.47,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Campbell's.,False,0.0,9,False,"heart healthy, high protein"
+Great Value Cereal Item 227,Great Value,Cereal,3,22.01,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Great Value.,True,5.4,20,False,high protein
+Great Value Toiletries Item 228,Great Value,Toiletries,11,7.76,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Great Value.,False,0.0,37,False,"heart healthy, low fat, non-GMO"
+Quaker Toiletries Item 229,Quaker,Toiletries,11,6.57,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Quaker.,True,19.8,30,False,"vegan, high protein"
+Barilla Bakery Item 230,Barilla,Bakery,7,4.21,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Barilla.,False,0.0,4,False,"organic, low sugar"
+Quaker Frozen Item 231,Quaker,Frozen,8,13.09,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Quaker.,False,0.0,4,False,"gluten-free, low fat, high protein"
+Colgate Beverages Item 232,Colgate,Beverages,4,9.35,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Colgate.,False,0.0,50,False,high protein
+Nestle Bakery Item 233,Nestle,Bakery,7,10.73,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Nestle.,False,0.0,15,False,"vegan, heart healthy"
+General Mills Pet Food Item 234,General Mills,Pet Food,12,6.8,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from General Mills.,False,0.0,22,False,"low sugar, non-GMO"
+Kellogg's Frozen Item 235,Kellogg's,Frozen,8,17.52,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Kellogg's.,False,0.0,18,False,"vegan, gluten-free"
+Nestle Cereal Item 236,Nestle,Cereal,3,7.43,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Nestle.,False,0.0,1,True,organic
+Nestle Pasta Item 237,Nestle,Pasta,6,10.71,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Nestle.,False,0.0,3,False,"vegan, high protein"
+Heinz Pet Food Item 238,Heinz,Pet Food,12,15.61,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Heinz.,False,0.0,40,False,high protein
+Great Value Frozen Item 239,Great Value,Frozen,8,2.24,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Great Value.,False,0.0,10,False,"organic, heart healthy"
+Quaker Pasta Item 240,Quaker,Pasta,6,23.75,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Quaker.,True,23.0,1,False,"non-GMO, gluten-free, high protein"
+Campbell's Toiletries Item 241,Campbell's,Toiletries,11,13.57,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Campbell's.,False,0.0,45,False,"low fat, vegan"
+General Mills Bakery Item 242,General Mills,Bakery,7,20.64,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from General Mills.,True,22.6,10,False,"organic, non-GMO"
+Nestle Snacks Item 243,Nestle,Snacks,5,14.46,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Nestle.,False,0.0,13,False,gluten-free
+Quaker Condiments Item 244,Quaker,Condiments,3,8.83,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Quaker.,False,0.0,41,False,low fat
+Great Value Toiletries Item 245,Great Value,Toiletries,11,24.36,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Great Value.,False,0.0,9,False,"vegan, gluten-free"
+Kellogg's Dairy Item 246,Kellogg's,Dairy,2,4.98,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Kellogg's.,False,0.0,37,False,"heart healthy, low fat"
+Campbell's Cereal Item 247,Campbell's,Cereal,3,17.16,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Campbell's.,False,0.0,9,False,"organic, vegan, high protein"
+Campbell's Cleaning Item 248,Campbell's,Cleaning,10,22.39,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Campbell's.,False,0.0,38,False,low fat
+Heinz Condiments Item 249,Heinz,Condiments,3,19.13,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Heinz.,True,28.1,28,False,"non-GMO, high protein, gluten-free"
+Kellogg's Vegetables Item 250,Kellogg's,Vegetables,1,1.87,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Kellogg's.,False,0.0,7,False,"organic, high protein"
+Kellogg's Fruits Item 251,Kellogg's,Fruits,1,5.75,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Kellogg's.,False,0.0,1,False,heart healthy
+Campbell's Fruits Item 252,Campbell's,Fruits,1,21.17,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Campbell's.,False,0.0,28,False,"organic, low sugar, non-GMO"
+Great Value Fruits Item 253,Great Value,Fruits,1,22.79,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Great Value.,False,0.0,20,False,"organic, gluten-free, vegan"
+Quaker Meat Item 254,Quaker,Meat,9,4.4,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Quaker.,False,0.0,9,False,low fat
+Colgate Dairy Item 255,Colgate,Dairy,2,23.29,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Colgate.,True,10.3,25,False,gluten-free
+General Mills Cereal Item 256,General Mills,Cereal,3,19.43,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from General Mills.,False,0.0,28,False,"organic, low fat, gluten-free"
+Campbell's Toiletries Item 257,Campbell's,Toiletries,11,1.51,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Campbell's.,False,0.0,20,False,"high protein, gluten-free"
+Colgate Dairy Item 258,Colgate,Dairy,2,3.59,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Colgate.,False,0.0,12,False,"organic, vegan"
+Quaker Cleaning Item 259,Quaker,Cleaning,10,18.11,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Quaker.,False,0.0,1,False,"low fat, low sugar, gluten-free"
+Colgate Cleaning Item 260,Colgate,Cleaning,10,19.75,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Colgate.,False,0.0,10,False,"heart healthy, high protein, gluten-free"
+Nestle Vegetables Item 261,Nestle,Vegetables,1,2.69,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Nestle.,False,0.0,49,False,"non-GMO, heart healthy"
+Campbell's Toiletries Item 262,Campbell's,Toiletries,11,7.24,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Campbell's.,False,0.0,21,False,vegan
+Great Value Fruits Item 263,Great Value,Fruits,1,23.75,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Great Value.,True,12.0,14,True,"low fat, heart healthy"
+Barilla Dairy Item 264,Barilla,Dairy,2,2.16,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Barilla.,True,12.5,3,False,"low fat, organic, high protein"
+Quaker Condiments Item 265,Quaker,Condiments,3,22.64,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Quaker.,False,0.0,37,False,vegan
+Dove Toiletries Item 266,Dove,Toiletries,11,1.66,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Dove.,True,25.3,43,False,"vegan, gluten-free"
+Great Value Pet Food Item 267,Great Value,Pet Food,12,24.61,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Great Value.,False,0.0,47,False,low sugar
+General Mills Condiments Item 268,General Mills,Condiments,3,10.02,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from General Mills.,True,12.7,16,False,"heart healthy, non-GMO"
+Barilla Toiletries Item 269,Barilla,Toiletries,11,20.24,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Barilla.,False,0.0,13,False,high protein
+Dove Bakery Item 270,Dove,Bakery,7,21.77,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Dove.,False,0.0,32,False,"organic, low fat"
+Barilla Meat Item 271,Barilla,Meat,9,14.09,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Barilla.,False,0.0,40,False,"organic, non-GMO, low sugar"
+Nestle Frozen Item 272,Nestle,Frozen,8,24.2,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Nestle.,False,0.0,22,False,"low sugar, high protein"
+Dove Fruits Item 273,Dove,Fruits,1,2.53,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Dove.,False,0.0,14,False,vegan
+Great Value Pet Food Item 274,Great Value,Pet Food,12,7.17,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Great Value.,True,25.3,28,False,"gluten-free, low fat"
+Great Value Pet Food Item 275,Great Value,Pet Food,12,2.26,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Great Value.,False,0.0,10,False,"low sugar, non-GMO"
+Heinz Beverages Item 276,Heinz,Beverages,4,4.56,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Heinz.,False,0.0,24,False,heart healthy
+Heinz Snacks Item 277,Heinz,Snacks,5,8.11,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Heinz.,False,0.0,36,True,"non-GMO, gluten-free"
+Great Value Meat Item 278,Great Value,Meat,9,8.86,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Great Value.,False,0.0,1,False,vegan
+Campbell's Condiments Item 279,Campbell's,Condiments,3,17.1,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Campbell's.,False,0.0,23,False,low sugar
+Kellogg's Toiletries Item 280,Kellogg's,Toiletries,11,14.43,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Kellogg's.,False,0.0,14,True,"vegan, gluten-free, high protein"
+Colgate Pet Food Item 281,Colgate,Pet Food,12,24.82,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Colgate.,False,0.0,0,False,"non-GMO, gluten-free"
+General Mills Pet Food Item 282,General Mills,Pet Food,12,13.26,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from General Mills.,False,0.0,32,False,"vegan, gluten-free"
+Heinz Dairy Item 283,Heinz,Dairy,2,16.17,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Heinz.,True,7.3,36,False,low sugar
+Great Value Fruits Item 284,Great Value,Fruits,1,22.87,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Great Value.,True,27.9,3,False,"high protein, organic"
+Nestle Beverages Item 285,Nestle,Beverages,4,2.09,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Nestle.,True,12.2,30,False,"organic, vegan, low fat"
+Barilla Snacks Item 286,Barilla,Snacks,5,16.12,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Barilla.,True,17.2,16,False,"vegan, organic"
+Great Value Frozen Item 287,Great Value,Frozen,8,6.6,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Great Value.,False,0.0,35,False,"low sugar, non-GMO, high protein"
+Quaker Toiletries Item 288,Quaker,Toiletries,11,1.66,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Quaker.,False,0.0,25,False,"non-GMO, heart healthy"
+General Mills Condiments Item 289,General Mills,Condiments,3,15.32,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from General Mills.,True,16.6,41,False,gluten-free
+Great Value Beverages Item 290,Great Value,Beverages,4,10.85,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Great Value.,True,8.6,24,False,low fat
+Great Value Frozen Item 291,Great Value,Frozen,8,6.18,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Great Value.,False,0.0,5,False,"gluten-free, heart healthy"
+Kellogg's Beverages Item 292,Kellogg's,Beverages,4,7.58,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Kellogg's.,False,0.0,1,False,vegan
+Campbell's Cereal Item 293,Campbell's,Cereal,3,24.89,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Campbell's.,False,0.0,36,False,"heart healthy, vegan, low fat"
+Heinz Bakery Item 294,Heinz,Bakery,7,2.99,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Heinz.,True,11.4,38,True,"vegan, low sugar"
+Campbell's Bakery Item 295,Campbell's,Bakery,7,1.8,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Campbell's.,True,26.0,4,False,"high protein, organic"
+Colgate Bakery Item 296,Colgate,Bakery,7,23.54,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Colgate.,False,0.0,41,False,"organic, vegan"
+Great Value Pet Food Item 297,Great Value,Pet Food,12,7.15,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Great Value.,True,23.4,13,False,"high protein, low sugar, vegan"
+Dove Pet Food Item 298,Dove,Pet Food,12,14.43,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Dove.,False,0.0,16,False,"low sugar, gluten-free, non-GMO"
+Campbell's Toiletries Item 299,Campbell's,Toiletries,11,19.68,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Campbell's.,False,0.0,20,False,"vegan, gluten-free"
+General Mills Cereal Item 300,General Mills,Cereal,3,16.2,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from General Mills.,False,0.0,16,False,"heart healthy, low fat, high protein"
+General Mills Condiments Item 301,General Mills,Condiments,3,19.47,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from General Mills.,False,0.0,46,True,"heart healthy, gluten-free, vegan"
+Nestle Cereal Item 302,Nestle,Cereal,3,5.4,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Nestle.,True,23.2,47,False,gluten-free
+Great Value Cleaning Item 303,Great Value,Cleaning,10,4.47,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Great Value.,False,0.0,3,False,"heart healthy, high protein"
+Heinz Frozen Item 304,Heinz,Frozen,8,5.96,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Heinz.,False,0.0,34,True,"low fat, gluten-free"
+Kellogg's Pet Food Item 305,Kellogg's,Pet Food,12,12.31,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Kellogg's.,True,10.5,22,False,"non-GMO, heart healthy"
+Barilla Cereal Item 306,Barilla,Cereal,3,7.9,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Barilla.,False,0.0,3,False,"vegan, low fat, low sugar"
+Campbell's Bakery Item 307,Campbell's,Bakery,7,5.37,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Campbell's.,True,8.2,12,True,"low sugar, high protein"
+Quaker Frozen Item 308,Quaker,Frozen,8,2.96,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Quaker.,True,14.9,27,False,low fat
+Kellogg's Vegetables Item 309,Kellogg's,Vegetables,1,8.7,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Kellogg's.,False,0.0,43,False,"low fat, heart healthy"
+General Mills Pasta Item 310,General Mills,Pasta,6,24.14,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from General Mills.,False,0.0,47,False,"gluten-free, organic, heart healthy"
+Campbell's Frozen Item 311,Campbell's,Frozen,8,23.52,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Campbell's.,False,0.0,15,False,"low fat, gluten-free, high protein"
+Nestle Frozen Item 312,Nestle,Frozen,8,14.59,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Nestle.,False,0.0,2,False,"low sugar, low fat, non-GMO"
+Dove Frozen Item 313,Dove,Frozen,8,22.87,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Dove.,False,0.0,5,True,"heart healthy, vegan"
+Great Value Condiments Item 314,Great Value,Condiments,3,11.38,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Great Value.,True,19.7,19,False,"high protein, low sugar, organic"
+Dove Pet Food Item 315,Dove,Pet Food,12,7.74,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Dove.,False,0.0,1,False,"non-GMO, low sugar"
+Colgate Fruits Item 316,Colgate,Fruits,1,12.36,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Colgate.,False,0.0,9,False,"high protein, heart healthy"
+Colgate Fruits Item 317,Colgate,Fruits,1,21.66,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Colgate.,False,0.0,32,False,"gluten-free, vegan"
+Barilla Pet Food Item 318,Barilla,Pet Food,12,9.9,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Barilla.,False,0.0,19,False,"heart healthy, vegan, organic"
+Nestle Cleaning Item 319,Nestle,Cleaning,10,10.92,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Nestle.,True,14.6,40,False,vegan
+Dove Condiments Item 320,Dove,Condiments,3,8.05,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Dove.,False,0.0,10,False,"heart healthy, vegan"
+Colgate Frozen Item 321,Colgate,Frozen,8,11.09,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Colgate.,True,11.4,34,False,"low sugar, high protein"
+Colgate Dairy Item 322,Colgate,Dairy,2,16.91,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Colgate.,False,0.0,1,False,gluten-free
+Campbell's Snacks Item 323,Campbell's,Snacks,5,10.6,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Campbell's.,False,0.0,32,False,"non-GMO, vegan, low fat"
+Nestle Frozen Item 324,Nestle,Frozen,8,10.94,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Nestle.,False,0.0,23,False,"gluten-free, heart healthy, high protein"
+Dove Cereal Item 325,Dove,Cereal,3,12.58,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Dove.,False,0.0,18,False,"low fat, non-GMO"
+Heinz Frozen Item 326,Heinz,Frozen,8,6.52,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Heinz.,False,0.0,5,False,"heart healthy, low fat"
+Dove Frozen Item 327,Dove,Frozen,8,22.91,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Dove.,False,0.0,25,True,"high protein, gluten-free, low sugar"
+Heinz Cereal Item 328,Heinz,Cereal,3,24.7,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Heinz.,True,16.3,28,False,"vegan, non-GMO"
+Great Value Snacks Item 329,Great Value,Snacks,5,20.62,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Great Value.,False,0.0,1,True,"high protein, non-GMO, heart healthy"
+General Mills Frozen Item 330,General Mills,Frozen,8,24.95,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from General Mills.,False,0.0,9,False,gluten-free
+Great Value Fruits Item 331,Great Value,Fruits,1,8.11,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Great Value.,False,0.0,7,False,"heart healthy, organic"
+Kellogg's Dairy Item 332,Kellogg's,Dairy,2,8.38,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Kellogg's.,False,0.0,46,False,low fat
+Dove Snacks Item 333,Dove,Snacks,5,24.23,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Dove.,False,0.0,20,False,"gluten-free, low sugar"
+Quaker Vegetables Item 334,Quaker,Vegetables,1,13.86,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Quaker.,False,0.0,7,False,"organic, vegan"
+Nestle Vegetables Item 335,Nestle,Vegetables,1,14.31,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Nestle.,False,0.0,9,False,"low fat, low sugar, high protein"
+Heinz Vegetables Item 336,Heinz,Vegetables,1,19.38,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Heinz.,False,0.0,42,True,gluten-free
+Kellogg's Fruits Item 337,Kellogg's,Fruits,1,19.56,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Kellogg's.,True,27.8,13,False,vegan
+Kellogg's Snacks Item 338,Kellogg's,Snacks,5,15.33,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Kellogg's.,False,0.0,32,False,organic
+Nestle Fruits Item 339,Nestle,Fruits,1,12.15,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Nestle.,True,11.6,13,False,"heart healthy, gluten-free"
+Kellogg's Fruits Item 340,Kellogg's,Fruits,1,16.56,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Kellogg's.,False,0.0,50,False,"low sugar, gluten-free"
+Quaker Dairy Item 341,Quaker,Dairy,2,18.36,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Quaker.,False,0.0,15,False,"high protein, low sugar"
+Heinz Pet Food Item 342,Heinz,Pet Food,12,8.57,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Heinz.,False,0.0,22,False,vegan
+Barilla Meat Item 343,Barilla,Meat,9,16.35,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Barilla.,True,13.1,3,False,"low fat, heart healthy"
+General Mills Beverages Item 344,General Mills,Beverages,4,19.12,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from General Mills.,False,0.0,18,False,low fat
+General Mills Beverages Item 345,General Mills,Beverages,4,15.5,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from General Mills.,False,0.0,21,False,low sugar
+Great Value Meat Item 346,Great Value,Meat,9,16.79,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Great Value.,False,0.0,18,False,"high protein, low sugar, non-GMO"
+Barilla Bakery Item 347,Barilla,Bakery,7,1.8,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Barilla.,True,10.0,33,False,low fat
+Quaker Condiments Item 348,Quaker,Condiments,3,22.0,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Quaker.,False,0.0,27,False,"vegan, heart healthy, organic"
+Barilla Cereal Item 349,Barilla,Cereal,3,4.05,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Barilla.,False,0.0,43,False,"heart healthy, vegan"
+General Mills Fruits Item 350,General Mills,Fruits,1,7.43,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from General Mills.,False,0.0,12,False,high protein
+Heinz Cereal Item 351,Heinz,Cereal,3,13.19,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Heinz.,False,0.0,45,False,"low fat, gluten-free"
+Kellogg's Snacks Item 352,Kellogg's,Snacks,5,19.16,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Kellogg's.,False,0.0,23,False,low fat
+Quaker Fruits Item 353,Quaker,Fruits,1,19.19,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Quaker.,False,0.0,45,False,"non-GMO, low fat, organic"
+Nestle Cleaning Item 354,Nestle,Cleaning,10,7.01,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Nestle.,False,0.0,31,False,"non-GMO, heart healthy, organic"
+Nestle Frozen Item 355,Nestle,Frozen,8,8.79,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Nestle.,True,24.7,48,False,"low fat, low sugar, heart healthy"
+Dove Bakery Item 356,Dove,Bakery,7,6.79,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Dove.,False,0.0,23,False,low sugar
+Dove Cereal Item 357,Dove,Cereal,3,17.09,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Dove.,False,0.0,35,False,"heart healthy, high protein"
+Quaker Meat Item 358,Quaker,Meat,9,14.68,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Quaker.,False,0.0,23,False,vegan
+Kellogg's Frozen Item 359,Kellogg's,Frozen,8,20.56,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Kellogg's.,True,24.1,15,False,"low fat, high protein, non-GMO"
+Colgate Frozen Item 360,Colgate,Frozen,8,15.85,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Colgate.,True,28.3,8,False,"organic, low fat, high protein"
+Heinz Snacks Item 361,Heinz,Snacks,5,4.05,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Heinz.,False,0.0,26,True,"gluten-free, vegan"
+Kellogg's Meat Item 362,Kellogg's,Meat,9,17.5,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Kellogg's.,True,11.8,21,False,low fat
+Nestle Fruits Item 363,Nestle,Fruits,1,15.19,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Nestle.,False,0.0,29,False,"low sugar, heart healthy"
+Great Value Bakery Item 364,Great Value,Bakery,7,24.73,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Great Value.,False,0.0,26,False,"organic, low fat, vegan"
+Colgate Snacks Item 365,Colgate,Snacks,5,1.72,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Colgate.,False,0.0,35,False,"non-GMO, organic, low fat"
+Heinz Pasta Item 366,Heinz,Pasta,6,18.62,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Heinz.,False,0.0,26,False,"low sugar, non-GMO"
+Dove Vegetables Item 367,Dove,Vegetables,1,10.57,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Dove.,False,0.0,47,True,low fat
+Kellogg's Beverages Item 368,Kellogg's,Beverages,4,9.49,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Kellogg's.,False,0.0,40,False,"gluten-free, non-GMO"
+Quaker Beverages Item 369,Quaker,Beverages,4,6.76,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Quaker.,True,26.9,14,True,"gluten-free, low sugar, non-GMO"
+Nestle Bakery Item 370,Nestle,Bakery,7,9.28,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Nestle.,False,0.0,49,False,vegan
+Quaker Cleaning Item 371,Quaker,Cleaning,10,11.21,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Quaker.,False,0.0,24,False,"high protein, low fat"
+Great Value Meat Item 372,Great Value,Meat,9,18.14,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Great Value.,False,0.0,9,False,"high protein, vegan, low sugar"
+Heinz Condiments Item 373,Heinz,Condiments,3,4.8,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Heinz.,True,21.2,21,False,"low fat, vegan"
+Quaker Meat Item 374,Quaker,Meat,9,17.18,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Quaker.,True,7.9,26,True,"non-GMO, low sugar, gluten-free"
+Campbell's Cereal Item 375,Campbell's,Cereal,3,11.1,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Campbell's.,False,0.0,16,False,high protein
+Kellogg's Bakery Item 376,Kellogg's,Bakery,7,14.18,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Kellogg's.,True,28.8,8,False,organic
+Quaker Cleaning Item 377,Quaker,Cleaning,10,12.09,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Quaker.,False,0.0,46,False,"gluten-free, low sugar, non-GMO"
+Kellogg's Vegetables Item 378,Kellogg's,Vegetables,1,22.07,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Kellogg's.,True,25.5,24,True,organic
+General Mills Pet Food Item 379,General Mills,Pet Food,12,14.36,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from General Mills.,True,19.6,22,False,"organic, low fat, gluten-free"
+Nestle Cereal Item 380,Nestle,Cereal,3,21.91,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Nestle.,False,0.0,15,False,organic
+Colgate Beverages Item 381,Colgate,Beverages,4,1.52,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Colgate.,False,0.0,17,False,"high protein, non-GMO"
+Campbell's Vegetables Item 382,Campbell's,Vegetables,1,6.41,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Campbell's.,False,0.0,0,False,"organic, non-GMO"
+Kellogg's Meat Item 383,Kellogg's,Meat,9,18.66,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Kellogg's.,False,0.0,26,False,"low fat, low sugar"
+Great Value Meat Item 384,Great Value,Meat,9,8.58,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Great Value.,False,0.0,41,False,heart healthy
+Barilla Vegetables Item 385,Barilla,Vegetables,1,13.66,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Barilla.,True,5.3,35,False,gluten-free
+Quaker Cleaning Item 386,Quaker,Cleaning,10,14.95,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Quaker.,False,0.0,45,False,vegan
+Dove Pasta Item 387,Dove,Pasta,6,5.32,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Dove.,True,13.3,31,False,heart healthy
+Nestle Vegetables Item 388,Nestle,Vegetables,1,2.2,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Nestle.,False,0.0,0,False,non-GMO
+General Mills Toiletries Item 389,General Mills,Toiletries,11,15.08,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from General Mills.,False,0.0,8,False,gluten-free
+Kellogg's Pasta Item 390,Kellogg's,Pasta,6,9.76,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Kellogg's.,False,0.0,7,False,"low fat, vegan"
+General Mills Cereal Item 391,General Mills,Cereal,3,8.87,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from General Mills.,True,6.5,24,False,"low fat, high protein"
+Nestle Dairy Item 392,Nestle,Dairy,2,14.69,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Nestle.,False,0.0,41,False,"heart healthy, organic"
+Barilla Beverages Item 393,Barilla,Beverages,4,9.52,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Barilla.,False,0.0,24,False,gluten-free
+Colgate Toiletries Item 394,Colgate,Toiletries,11,12.59,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Colgate.,True,19.5,47,True,"low sugar, high protein"
+General Mills Dairy Item 395,General Mills,Dairy,2,23.31,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from General Mills.,True,20.3,9,False,"vegan, heart healthy"
+Heinz Bakery Item 396,Heinz,Bakery,7,19.77,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Heinz.,False,0.0,25,False,"organic, non-GMO, low sugar"
+Kellogg's Toiletries Item 397,Kellogg's,Toiletries,11,24.47,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Kellogg's.,True,25.4,4,False,"non-GMO, heart healthy, organic"
+Quaker Pasta Item 398,Quaker,Pasta,6,21.56,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Quaker.,False,0.0,28,False,"vegan, low sugar, organic"
+Great Value Pet Food Item 399,Great Value,Pet Food,12,3.98,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Great Value.,True,18.4,21,True,"gluten-free, organic, vegan"
+Colgate Toiletries Item 400,Colgate,Toiletries,11,6.17,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Colgate.,False,0.0,20,True,"heart healthy, gluten-free, high protein"
+Kellogg's Cereal Item 401,Kellogg's,Cereal,3,3.64,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Kellogg's.,False,0.0,28,True,"low sugar, high protein, low fat"
+Quaker Pet Food Item 402,Quaker,Pet Food,12,23.6,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Quaker.,True,25.6,19,False,"non-GMO, gluten-free"
+Barilla Fruits Item 403,Barilla,Fruits,1,22.99,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Barilla.,False,0.0,20,False,"non-GMO, low fat"
+Heinz Condiments Item 404,Heinz,Condiments,3,12.48,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Heinz.,True,24.3,17,False,"non-GMO, high protein"
+Heinz Condiments Item 405,Heinz,Condiments,3,15.03,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Heinz.,False,0.0,3,False,low fat
+General Mills Frozen Item 406,General Mills,Frozen,8,4.15,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from General Mills.,True,15.6,27,False,"low fat, gluten-free, heart healthy"
+Great Value Cleaning Item 407,Great Value,Cleaning,10,6.65,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Great Value.,True,28.4,11,False,gluten-free
+Heinz Beverages Item 408,Heinz,Beverages,4,19.12,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Heinz.,False,0.0,32,False,"organic, low sugar"
+Kellogg's Cereal Item 409,Kellogg's,Cereal,3,19.26,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Kellogg's.,False,0.0,8,False,"low fat, non-GMO"
+Heinz Cereal Item 410,Heinz,Cereal,3,2.97,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Heinz.,False,0.0,16,False,"vegan, low sugar"
+Heinz Cleaning Item 411,Heinz,Cleaning,10,10.37,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Heinz.,True,20.5,47,False,gluten-free
+Campbell's Dairy Item 412,Campbell's,Dairy,2,23.92,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Campbell's.,True,21.4,25,False,heart healthy
+Great Value Pet Food Item 413,Great Value,Pet Food,12,5.31,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Great Value.,True,8.4,26,False,"low fat, low sugar, organic"
+Nestle Pet Food Item 414,Nestle,Pet Food,12,13.01,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Nestle.,False,0.0,22,False,high protein
+Campbell's Toiletries Item 415,Campbell's,Toiletries,11,4.82,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Campbell's.,False,0.0,42,False,heart healthy
+Colgate Meat Item 416,Colgate,Meat,9,7.64,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Colgate.,True,20.4,5,False,"non-GMO, vegan, organic"
+Nestle Dairy Item 417,Nestle,Dairy,2,10.68,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Nestle.,False,0.0,6,False,"high protein, vegan, gluten-free"
+Nestle Frozen Item 418,Nestle,Frozen,8,16.52,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Nestle.,False,0.0,41,False,"low sugar, organic, non-GMO"
+Quaker Pet Food Item 419,Quaker,Pet Food,12,11.22,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Quaker.,False,0.0,23,False,"non-GMO, low sugar, low fat"
+Great Value Snacks Item 420,Great Value,Snacks,5,16.64,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Great Value.,False,0.0,37,True,vegan
+Barilla Condiments Item 421,Barilla,Condiments,3,12.76,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Barilla.,True,14.1,27,False,"low fat, gluten-free, heart healthy"
+Dove Pet Food Item 422,Dove,Pet Food,12,7.76,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Dove.,False,0.0,18,False,organic
+Barilla Snacks Item 423,Barilla,Snacks,5,24.95,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Barilla.,False,0.0,1,False,"organic, non-GMO, low sugar"
+Great Value Condiments Item 424,Great Value,Condiments,3,23.7,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Great Value.,True,6.6,8,False,low fat
+Barilla Dairy Item 425,Barilla,Dairy,2,6.57,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Barilla.,False,0.0,5,False,"vegan, organic, gluten-free"
+Great Value Dairy Item 426,Great Value,Dairy,2,12.79,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Great Value.,False,0.0,50,False,"low sugar, vegan"
+Colgate Cereal Item 427,Colgate,Cereal,3,15.43,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Colgate.,False,0.0,41,False,"high protein, heart healthy, gluten-free"
+Heinz Meat Item 428,Heinz,Meat,9,15.58,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Heinz.,True,22.4,4,False,"non-GMO, low sugar, heart healthy"
+Great Value Pet Food Item 429,Great Value,Pet Food,12,9.03,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Great Value.,False,0.0,26,False,vegan
+Campbell's Pasta Item 430,Campbell's,Pasta,6,9.96,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Campbell's.,False,0.0,46,False,"vegan, low fat"
+Colgate Snacks Item 431,Colgate,Snacks,5,11.84,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Colgate.,True,10.9,48,False,vegan
+Quaker Meat Item 432,Quaker,Meat,9,13.17,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Quaker.,True,11.6,40,False,high protein
+Dove Vegetables Item 433,Dove,Vegetables,1,13.22,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Dove.,False,0.0,14,False,"non-GMO, low fat"
+Nestle Vegetables Item 434,Nestle,Vegetables,1,8.34,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Nestle.,False,0.0,20,False,high protein
+Great Value Pasta Item 435,Great Value,Pasta,6,24.08,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Great Value.,True,18.6,45,False,gluten-free
+Campbell's Condiments Item 436,Campbell's,Condiments,3,19.8,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Campbell's.,False,0.0,42,False,"high protein, gluten-free"
+Campbell's Beverages Item 437,Campbell's,Beverages,4,18.93,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Campbell's.,False,0.0,36,True,"vegan, low fat"
+Heinz Frozen Item 438,Heinz,Frozen,8,4.62,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Heinz.,True,23.7,8,False,organic
+Colgate Beverages Item 439,Colgate,Beverages,4,16.81,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Colgate.,False,0.0,18,False,"gluten-free, low sugar"
+General Mills Beverages Item 440,General Mills,Beverages,4,19.45,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from General Mills.,False,0.0,11,False,gluten-free
+General Mills Bakery Item 441,General Mills,Bakery,7,2.13,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from General Mills.,True,18.9,33,False,organic
+Nestle Vegetables Item 442,Nestle,Vegetables,1,18.72,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Nestle.,False,0.0,0,False,"heart healthy, low sugar, non-GMO"
+Barilla Bakery Item 443,Barilla,Bakery,7,23.06,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Barilla.,False,0.0,44,False,gluten-free
+Quaker Frozen Item 444,Quaker,Frozen,8,11.56,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Quaker.,False,0.0,12,False,"gluten-free, vegan, non-GMO"
+Great Value Beverages Item 445,Great Value,Beverages,4,14.41,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Great Value.,False,0.0,41,False,"low sugar, heart healthy, non-GMO"
+Quaker Cleaning Item 446,Quaker,Cleaning,10,4.27,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Quaker.,False,0.0,49,False,"low sugar, low fat"
+Dove Bakery Item 447,Dove,Bakery,7,16.68,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Dove.,False,0.0,24,False,organic
+Heinz Condiments Item 448,Heinz,Condiments,3,11.01,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Heinz.,False,0.0,47,False,"low fat, low sugar"
+Barilla Dairy Item 449,Barilla,Dairy,2,11.02,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Barilla.,False,0.0,29,False,low sugar
+Barilla Snacks Item 450,Barilla,Snacks,5,14.29,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Barilla.,True,24.3,46,False,"organic, vegan"
+Great Value Pasta Item 451,Great Value,Pasta,6,16.79,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Great Value.,False,0.0,48,False,"heart healthy, vegan"
+Kellogg's Toiletries Item 452,Kellogg's,Toiletries,11,10.43,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Kellogg's.,False,0.0,39,False,vegan
+Campbell's Bakery Item 453,Campbell's,Bakery,7,11.11,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Campbell's.,True,9.1,40,True,"low fat, heart healthy"
+Colgate Vegetables Item 454,Colgate,Vegetables,1,12.76,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Colgate.,False,0.0,11,False,"low fat, heart healthy, organic"
+Nestle Toiletries Item 455,Nestle,Toiletries,11,3.11,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Nestle.,False,0.0,50,False,vegan
+Great Value Fruits Item 456,Great Value,Fruits,1,7.79,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Great Value.,False,0.0,26,False,vegan
+Great Value Condiments Item 457,Great Value,Condiments,3,5.01,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Great Value.,False,0.0,18,False,"heart healthy, high protein, organic"
+Kellogg's Vegetables Item 458,Kellogg's,Vegetables,1,9.96,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Kellogg's.,False,0.0,11,False,"high protein, non-GMO, organic"
+Quaker Bakery Item 459,Quaker,Bakery,7,16.33,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Quaker.,False,0.0,24,False,"gluten-free, low sugar"
+Heinz Dairy Item 460,Heinz,Dairy,2,3.93,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Heinz.,True,23.7,19,False,"non-GMO, low sugar, gluten-free"
+Heinz Cleaning Item 461,Heinz,Cleaning,10,23.56,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Heinz.,False,0.0,18,False,"heart healthy, non-GMO"
+Quaker Beverages Item 462,Quaker,Beverages,4,7.7,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Quaker.,False,0.0,43,False,"low fat, gluten-free, low sugar"
+Great Value Vegetables Item 463,Great Value,Vegetables,1,5.12,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Great Value.,False,0.0,45,False,low sugar
+Colgate Meat Item 464,Colgate,Meat,9,4.53,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Colgate.,False,0.0,32,True,"non-GMO, organic"
+Quaker Fruits Item 465,Quaker,Fruits,1,3.14,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Quaker.,True,26.6,19,False,heart healthy
+Nestle Fruits Item 466,Nestle,Fruits,1,7.16,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Nestle.,False,0.0,45,False,"organic, low fat, vegan"
+General Mills Snacks Item 467,General Mills,Snacks,5,7.5,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from General Mills.,False,0.0,22,False,non-GMO
+Kellogg's Fruits Item 468,Kellogg's,Fruits,1,6.54,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Kellogg's.,True,15.1,16,False,"low sugar, low fat, non-GMO"
+Great Value Fruits Item 469,Great Value,Fruits,1,11.06,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Great Value.,False,0.0,24,False,heart healthy
+Campbell's Cereal Item 470,Campbell's,Cereal,3,12.01,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Campbell's.,False,0.0,16,False,non-GMO
+Heinz Cereal Item 471,Heinz,Cereal,3,12.48,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Heinz.,False,0.0,31,False,"vegan, heart healthy"
+General Mills Cleaning Item 472,General Mills,Cleaning,10,16.88,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from General Mills.,False,0.0,21,False,vegan
+General Mills Toiletries Item 473,General Mills,Toiletries,11,1.66,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from General Mills.,False,0.0,50,False,"organic, vegan, low fat"
+Quaker Beverages Item 474,Quaker,Beverages,4,1.83,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Quaker.,False,0.0,37,False,"low sugar, vegan, low fat"
+General Mills Snacks Item 475,General Mills,Snacks,5,22.35,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from General Mills.,False,0.0,15,False,non-GMO
+Nestle Beverages Item 476,Nestle,Beverages,4,3.76,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Nestle.,True,26.3,46,False,"gluten-free, high protein"
+Heinz Fruits Item 477,Heinz,Fruits,1,10.14,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Heinz.,False,0.0,10,False,"gluten-free, non-GMO, low fat"
+Kellogg's Vegetables Item 478,Kellogg's,Vegetables,1,11.11,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Kellogg's.,False,0.0,25,False,"low fat, low sugar"
+Kellogg's Vegetables Item 479,Kellogg's,Vegetables,1,14.12,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Kellogg's.,False,0.0,17,False,"organic, gluten-free"
+Colgate Snacks Item 480,Colgate,Snacks,5,3.82,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Colgate.,False,0.0,26,False,"low sugar, heart healthy, high protein"
+General Mills Bakery Item 481,General Mills,Bakery,7,6.28,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from General Mills.,True,29.2,39,False,low fat
+Colgate Beverages Item 482,Colgate,Beverages,4,10.24,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Colgate.,False,0.0,1,False,gluten-free
+Dove Fruits Item 483,Dove,Fruits,1,5.55,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Dove.,True,25.8,40,False,"gluten-free, high protein, low fat"
+Great Value Bakery Item 484,Great Value,Bakery,7,17.79,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Great Value.,True,17.8,38,False,"heart healthy, low fat"
+Campbell's Meat Item 485,Campbell's,Meat,9,5.21,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Campbell's.,False,0.0,49,False,non-GMO
+Nestle Cleaning Item 486,Nestle,Cleaning,10,14.97,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Nestle.,False,0.0,2,False,"organic, high protein, vegan"
+Quaker Frozen Item 487,Quaker,Frozen,8,16.32,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Quaker.,False,0.0,18,False,"organic, low fat, gluten-free"
+Kellogg's Beverages Item 488,Kellogg's,Beverages,4,19.52,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Kellogg's.,False,0.0,26,False,"low sugar, heart healthy"
+Nestle Pasta Item 489,Nestle,Pasta,6,23.68,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Nestle.,False,0.0,41,False,"gluten-free, low sugar, heart healthy"
+Dove Pet Food Item 490,Dove,Pet Food,12,22.3,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Dove.,False,0.0,10,False,"high protein, non-GMO"
+Colgate Frozen Item 491,Colgate,Frozen,8,11.37,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Colgate.,False,0.0,32,False,"high protein, heart healthy, low sugar"
+Barilla Toiletries Item 492,Barilla,Toiletries,11,3.78,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Barilla.,False,0.0,50,False,low sugar
+Campbell's Dairy Item 493,Campbell's,Dairy,2,18.05,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Campbell's.,False,0.0,30,False,"non-GMO, vegan, gluten-free"
+Dove Vegetables Item 494,Dove,Vegetables,1,21.09,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Dove.,True,21.2,49,False,gluten-free
+Nestle Fruits Item 495,Nestle,Fruits,1,22.0,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Nestle.,True,23.3,26,False,"low fat, non-GMO"
+Heinz Vegetables Item 496,Heinz,Vegetables,1,11.86,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Heinz.,False,0.0,4,False,"non-GMO, low fat"
+Colgate Meat Item 497,Colgate,Meat,9,17.66,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Colgate.,True,10.4,43,False,high protein
+Quaker Cereal Item 498,Quaker,Cereal,3,14.82,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Quaker.,False,0.0,42,False,heart healthy
+Dove Meat Item 499,Dove,Meat,9,1.53,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Dove.,False,0.0,43,False,"heart healthy, vegan"
+Quaker Pet Food Item 500,Quaker,Pet Food,12,13.05,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Quaker.,False,0.0,19,False,"organic, low sugar"
+General Mills Cereal Item 501,General Mills,Cereal,3,22.9,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from General Mills.,True,25.3,22,False,"vegan, gluten-free, low fat"
+Dove Condiments Item 502,Dove,Condiments,3,15.52,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Dove.,False,0.0,21,False,vegan
+Great Value Cereal Item 503,Great Value,Cereal,3,15.13,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Great Value.,True,13.4,18,False,"gluten-free, vegan, high protein"
+Campbell's Pasta Item 504,Campbell's,Pasta,6,8.99,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Campbell's.,True,18.1,32,True,"low sugar, organic, low fat"
+General Mills Snacks Item 505,General Mills,Snacks,5,12.32,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from General Mills.,True,10.5,3,False,non-GMO
+Colgate Vegetables Item 506,Colgate,Vegetables,1,23.4,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Colgate.,False,0.0,17,False,"gluten-free, vegan"
+Great Value Pasta Item 507,Great Value,Pasta,6,12.23,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Great Value.,False,0.0,22,True,low fat
+Dove Dairy Item 508,Dove,Dairy,2,15.69,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Dove.,False,0.0,49,False,"vegan, heart healthy, low fat"
+Heinz Fruits Item 509,Heinz,Fruits,1,22.57,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Heinz.,True,11.9,15,False,vegan
+Colgate Pasta Item 510,Colgate,Pasta,6,7.01,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Colgate.,False,0.0,19,False,"organic, high protein, vegan"
+Great Value Pasta Item 511,Great Value,Pasta,6,22.15,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Great Value.,False,0.0,33,False,"vegan, non-GMO, high protein"
+Barilla Fruits Item 512,Barilla,Fruits,1,23.03,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Barilla.,True,26.1,28,False,vegan
+Great Value Bakery Item 513,Great Value,Bakery,7,12.81,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Great Value.,True,11.7,36,False,"low fat, low sugar"
+Great Value Beverages Item 514,Great Value,Beverages,4,21.23,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Great Value.,True,11.9,1,False,"gluten-free, vegan"
+Heinz Meat Item 515,Heinz,Meat,9,4.6,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Heinz.,True,23.3,50,False,"organic, gluten-free"
+Kellogg's Frozen Item 516,Kellogg's,Frozen,8,6.93,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Kellogg's.,True,12.6,17,False,organic
+Dove Beverages Item 517,Dove,Beverages,4,4.42,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Dove.,False,0.0,3,False,"gluten-free, non-GMO"
+Dove Toiletries Item 518,Dove,Toiletries,11,20.34,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Dove.,True,9.2,8,False,gluten-free
+Nestle Meat Item 519,Nestle,Meat,9,16.84,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Nestle.,False,0.0,21,False,"low sugar, vegan"
+Quaker Cleaning Item 520,Quaker,Cleaning,10,3.16,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Quaker.,True,24.2,42,False,"non-GMO, gluten-free"
+Barilla Cleaning Item 521,Barilla,Cleaning,10,19.49,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Barilla.,True,9.3,6,False,"non-GMO, vegan"
+Colgate Bakery Item 522,Colgate,Bakery,7,3.52,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Colgate.,False,0.0,14,False,"low fat, organic"
+Dove Meat Item 523,Dove,Meat,9,24.09,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Dove.,False,0.0,39,False,low fat
+Heinz Fruits Item 524,Heinz,Fruits,1,13.87,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Heinz.,False,0.0,14,False,vegan
+Kellogg's Dairy Item 525,Kellogg's,Dairy,2,13.66,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Kellogg's.,False,0.0,23,False,gluten-free
+Dove Bakery Item 526,Dove,Bakery,7,9.68,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Dove.,False,0.0,3,False,organic
+Colgate Cereal Item 527,Colgate,Cereal,3,14.17,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Colgate.,False,0.0,8,False,"gluten-free, vegan, heart healthy"
+Dove Bakery Item 528,Dove,Bakery,7,20.94,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Dove.,False,0.0,47,False,high protein
+Dove Beverages Item 529,Dove,Beverages,4,3.35,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Dove.,False,0.0,39,False,"gluten-free, low fat, high protein"
+Campbell's Toiletries Item 530,Campbell's,Toiletries,11,21.19,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Campbell's.,False,0.0,2,True,"heart healthy, organic"
+Great Value Cleaning Item 531,Great Value,Cleaning,10,15.33,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Great Value.,True,22.4,10,False,"gluten-free, low fat, heart healthy"
+Dove Dairy Item 532,Dove,Dairy,2,12.29,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Dove.,False,0.0,33,False,"low sugar, non-GMO, vegan"
+Great Value Cleaning Item 533,Great Value,Cleaning,10,13.29,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Great Value.,False,0.0,8,False,"non-GMO, low sugar, gluten-free"
+Campbell's Vegetables Item 534,Campbell's,Vegetables,1,20.69,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Campbell's.,False,0.0,38,True,high protein
+Campbell's Fruits Item 535,Campbell's,Fruits,1,14.58,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Campbell's.,False,0.0,10,False,"low fat, high protein, heart healthy"
+Barilla Pet Food Item 536,Barilla,Pet Food,12,24.15,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Barilla.,False,0.0,31,False,"organic, low fat"
+Great Value Pasta Item 537,Great Value,Pasta,6,9.4,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Great Value.,False,0.0,9,False,heart healthy
+Heinz Cleaning Item 538,Heinz,Cleaning,10,17.58,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Heinz.,False,0.0,15,True,"vegan, heart healthy"
+Kellogg's Fruits Item 539,Kellogg's,Fruits,1,15.62,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Kellogg's.,False,0.0,10,False,non-GMO
+Kellogg's Dairy Item 540,Kellogg's,Dairy,2,15.53,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Kellogg's.,False,0.0,38,False,non-GMO
+Colgate Condiments Item 541,Colgate,Condiments,3,15.63,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Colgate.,False,0.0,25,False,"high protein, gluten-free, low fat"
+Dove Frozen Item 542,Dove,Frozen,8,22.69,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Dove.,False,0.0,26,False,"vegan, low fat"
+Nestle Meat Item 543,Nestle,Meat,9,20.15,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Nestle.,False,0.0,20,False,organic
+Quaker Condiments Item 544,Quaker,Condiments,3,7.37,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Quaker.,False,0.0,30,False,"heart healthy, vegan, organic"
+Colgate Meat Item 545,Colgate,Meat,9,18.66,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Colgate.,False,0.0,36,False,heart healthy
+Dove Fruits Item 546,Dove,Fruits,1,12.79,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Dove.,True,8.7,26,False,"gluten-free, non-GMO, heart healthy"
+Barilla Condiments Item 547,Barilla,Condiments,3,13.28,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Barilla.,False,0.0,30,False,non-GMO
+Kellogg's Frozen Item 548,Kellogg's,Frozen,8,3.77,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Kellogg's.,False,0.0,8,False,"low sugar, non-GMO, gluten-free"
+Barilla Vegetables Item 549,Barilla,Vegetables,1,15.53,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Barilla.,True,11.3,25,False,"low sugar, vegan, non-GMO"
+Campbell's Bakery Item 550,Campbell's,Bakery,7,4.46,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Campbell's.,True,26.1,41,False,non-GMO
+Barilla Cleaning Item 551,Barilla,Cleaning,10,15.41,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Barilla.,False,0.0,46,False,"vegan, low fat"
+General Mills Pasta Item 552,General Mills,Pasta,6,17.8,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from General Mills.,True,21.2,20,False,gluten-free
+Kellogg's Pet Food Item 553,Kellogg's,Pet Food,12,7.35,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Kellogg's.,False,0.0,3,False,heart healthy
+Heinz Vegetables Item 554,Heinz,Vegetables,1,23.16,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Heinz.,False,0.0,4,False,gluten-free
+Kellogg's Condiments Item 555,Kellogg's,Condiments,3,16.73,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Kellogg's.,False,0.0,33,False,"vegan, low sugar"
+Nestle Dairy Item 556,Nestle,Dairy,2,9.86,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Nestle.,False,0.0,35,False,"high protein, low fat, heart healthy"
+General Mills Snacks Item 557,General Mills,Snacks,5,19.72,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from General Mills.,False,0.0,18,False,organic
+Dove Meat Item 558,Dove,Meat,9,22.8,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Dove.,True,20.1,14,False,"low sugar, vegan"
+Kellogg's Vegetables Item 559,Kellogg's,Vegetables,1,2.73,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Kellogg's.,True,12.3,25,True,"vegan, high protein"
+Heinz Pasta Item 560,Heinz,Pasta,6,21.25,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Heinz.,True,27.2,15,False,organic
+Quaker Cleaning Item 561,Quaker,Cleaning,10,20.43,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Quaker.,True,9.4,32,False,"non-GMO, low sugar, low fat"
+Quaker Fruits Item 562,Quaker,Fruits,1,20.37,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Quaker.,False,0.0,26,False,"low sugar, heart healthy, high protein"
+Kellogg's Cereal Item 563,Kellogg's,Cereal,3,18.38,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Kellogg's.,False,0.0,11,False,"non-GMO, heart healthy, vegan"
+Heinz Condiments Item 564,Heinz,Condiments,3,3.36,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Heinz.,True,14.9,20,False,"organic, heart healthy, low sugar"
+Great Value Pet Food Item 565,Great Value,Pet Food,12,8.07,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Great Value.,True,21.4,29,False,"organic, low sugar"
+Colgate Pet Food Item 566,Colgate,Pet Food,12,8.26,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Colgate.,False,0.0,21,False,"non-GMO, heart healthy, low sugar"
+General Mills Vegetables Item 567,General Mills,Vegetables,1,12.1,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from General Mills.,False,0.0,29,False,"non-GMO, low sugar, heart healthy"
+Great Value Pet Food Item 568,Great Value,Pet Food,12,9.42,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Great Value.,False,0.0,19,False,"gluten-free, low fat"
+Barilla Bakery Item 569,Barilla,Bakery,7,13.52,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Barilla.,False,0.0,1,False,heart healthy
+Colgate Pasta Item 570,Colgate,Pasta,6,20.57,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Colgate.,True,29.6,2,False,"low fat, gluten-free"
+Barilla Fruits Item 571,Barilla,Fruits,1,18.52,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Barilla.,False,0.0,11,False,"vegan, gluten-free, low fat"
+Nestle Dairy Item 572,Nestle,Dairy,2,17.1,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Nestle.,False,0.0,36,False,"low fat, heart healthy, organic"
+Campbell's Pasta Item 573,Campbell's,Pasta,6,12.5,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Campbell's.,False,0.0,2,False,heart healthy
+Campbell's Beverages Item 574,Campbell's,Beverages,4,2.98,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Campbell's.,False,0.0,26,True,vegan
+Colgate Pet Food Item 575,Colgate,Pet Food,12,17.44,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Colgate.,False,0.0,39,False,"high protein, low fat"
+Quaker Pet Food Item 576,Quaker,Pet Food,12,7.87,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Quaker.,False,0.0,45,False,"vegan, high protein, organic"
+Heinz Cereal Item 577,Heinz,Cereal,3,5.24,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Heinz.,False,0.0,50,False,"low sugar, high protein"
+Colgate Pet Food Item 578,Colgate,Pet Food,12,16.19,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Colgate.,True,27.3,46,False,"high protein, low sugar"
+Campbell's Toiletries Item 579,Campbell's,Toiletries,11,16.75,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Campbell's.,False,0.0,2,True,"heart healthy, low sugar, high protein"
+Barilla Cereal Item 580,Barilla,Cereal,3,7.1,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Barilla.,False,0.0,8,False,gluten-free
+Dove Cereal Item 581,Dove,Cereal,3,4.65,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Dove.,False,0.0,16,False,"non-GMO, high protein, gluten-free"
+Dove Pet Food Item 582,Dove,Pet Food,12,19.92,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Dove.,False,0.0,13,False,"organic, vegan"
+Colgate Toiletries Item 583,Colgate,Toiletries,11,18.91,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Colgate.,False,0.0,31,False,low sugar
+Heinz Condiments Item 584,Heinz,Condiments,3,9.16,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Heinz.,False,0.0,36,False,"vegan, low fat"
+General Mills Fruits Item 585,General Mills,Fruits,1,8.62,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from General Mills.,False,0.0,33,False,"heart healthy, vegan"
+Dove Dairy Item 586,Dove,Dairy,2,23.47,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Dove.,False,0.0,22,False,"non-GMO, low fat"
+Campbell's Frozen Item 587,Campbell's,Frozen,8,10.26,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Campbell's.,True,27.2,45,False,"gluten-free, vegan"
+Campbell's Meat Item 588,Campbell's,Meat,9,20.6,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Campbell's.,False,0.0,25,False,"organic, high protein, gluten-free"
+Barilla Cleaning Item 589,Barilla,Cleaning,10,18.9,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Barilla.,False,0.0,35,False,"vegan, high protein"
+Barilla Snacks Item 590,Barilla,Snacks,5,6.75,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Barilla.,True,23.1,44,False,heart healthy
+Campbell's Cereal Item 591,Campbell's,Cereal,3,10.18,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Campbell's.,True,19.2,6,False,"high protein, non-GMO"
+Quaker Beverages Item 592,Quaker,Beverages,4,1.75,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Quaker.,True,7.3,32,False,heart healthy
+Heinz Cereal Item 593,Heinz,Cereal,3,14.53,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Heinz.,True,20.8,26,False,"low sugar, vegan"
+Campbell's Cleaning Item 594,Campbell's,Cleaning,10,15.86,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Campbell's.,False,0.0,8,False,vegan
+Nestle Toiletries Item 595,Nestle,Toiletries,11,7.9,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Nestle.,True,29.7,43,False,gluten-free
+Nestle Cereal Item 596,Nestle,Cereal,3,10.04,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Nestle.,False,0.0,23,False,"gluten-free, heart healthy"
+Quaker Dairy Item 597,Quaker,Dairy,2,11.8,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Quaker.,False,0.0,11,False,low sugar
+Campbell's Vegetables Item 598,Campbell's,Vegetables,1,18.56,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Campbell's.,False,0.0,45,False,"organic, non-GMO, low sugar"
+Barilla Beverages Item 599,Barilla,Beverages,4,21.23,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Barilla.,False,0.0,50,False,vegan
+Quaker Fruits Item 600,Quaker,Fruits,1,9.16,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Quaker.,True,24.0,49,False,gluten-free
+Campbell's Fruits Item 601,Campbell's,Fruits,1,17.81,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Campbell's.,False,0.0,1,False,"low sugar, organic, heart healthy"
+Kellogg's Snacks Item 602,Kellogg's,Snacks,5,1.86,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Kellogg's.,False,0.0,28,False,heart healthy
+Campbell's Snacks Item 603,Campbell's,Snacks,5,22.51,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Campbell's.,False,0.0,10,False,non-GMO
+Heinz Dairy Item 604,Heinz,Dairy,2,19.46,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Heinz.,True,18.8,6,False,"high protein, non-GMO"
+Kellogg's Vegetables Item 605,Kellogg's,Vegetables,1,8.28,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Kellogg's.,False,0.0,11,False,"organic, low sugar, low fat"
+Kellogg's Toiletries Item 606,Kellogg's,Toiletries,11,16.75,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Kellogg's.,False,0.0,39,False,"heart healthy, low sugar, high protein"
+Colgate Frozen Item 607,Colgate,Frozen,8,14.95,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Colgate.,True,24.0,27,False,low fat
+Barilla Dairy Item 608,Barilla,Dairy,2,6.82,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Barilla.,False,0.0,5,False,"low sugar, non-GMO, heart healthy"
+Colgate Dairy Item 609,Colgate,Dairy,2,8.17,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Colgate.,False,0.0,23,True,"low sugar, low fat"
+Barilla Meat Item 610,Barilla,Meat,9,14.89,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Barilla.,False,0.0,32,False,"non-GMO, high protein, low fat"
+Quaker Meat Item 611,Quaker,Meat,9,2.58,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Quaker.,True,29.0,16,False,low fat
+Great Value Frozen Item 612,Great Value,Frozen,8,10.08,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Great Value.,False,0.0,17,False,organic
+Kellogg's Toiletries Item 613,Kellogg's,Toiletries,11,13.6,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Kellogg's.,False,0.0,49,True,"gluten-free, non-GMO"
+Colgate Meat Item 614,Colgate,Meat,9,20.81,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Colgate.,False,0.0,45,False,heart healthy
+Great Value Snacks Item 615,Great Value,Snacks,5,2.82,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Great Value.,False,0.0,36,False,high protein
+Colgate Cleaning Item 616,Colgate,Cleaning,10,6.23,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Colgate.,True,7.1,1,False,low fat
+Barilla Frozen Item 617,Barilla,Frozen,8,21.8,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Barilla.,False,0.0,23,False,non-GMO
+Dove Frozen Item 618,Dove,Frozen,8,2.18,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Dove.,False,0.0,37,False,"organic, low fat, high protein"
+Barilla Cereal Item 619,Barilla,Cereal,3,9.22,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Barilla.,True,18.3,13,False,non-GMO
+Great Value Cleaning Item 620,Great Value,Cleaning,10,20.92,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Great Value.,False,0.0,26,True,heart healthy
+Quaker Condiments Item 621,Quaker,Condiments,3,11.72,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Quaker.,False,0.0,0,False,"high protein, vegan"
+Campbell's Fruits Item 622,Campbell's,Fruits,1,9.79,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Campbell's.,False,0.0,1,False,"low sugar, gluten-free, non-GMO"
+Great Value Condiments Item 623,Great Value,Condiments,3,14.97,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Great Value.,False,0.0,47,False,"heart healthy, low sugar, low fat"
+Heinz Condiments Item 624,Heinz,Condiments,3,18.89,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Heinz.,False,0.0,13,True,"gluten-free, low sugar, low fat"
+Quaker Beverages Item 625,Quaker,Beverages,4,24.73,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Quaker.,False,0.0,11,False,"organic, low sugar"
+Campbell's Cleaning Item 626,Campbell's,Cleaning,10,11.84,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Campbell's.,True,29.0,27,False,"heart healthy, vegan, organic"
+General Mills Dairy Item 627,General Mills,Dairy,2,10.17,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from General Mills.,False,0.0,7,False,"low sugar, non-GMO, organic"
+Barilla Dairy Item 628,Barilla,Dairy,2,20.12,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Barilla.,False,0.0,10,False,non-GMO
+Quaker Condiments Item 629,Quaker,Condiments,3,4.21,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Quaker.,False,0.0,21,True,non-GMO
+Great Value Beverages Item 630,Great Value,Beverages,4,16.39,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Great Value.,True,6.2,46,False,"low fat, organic"
+Great Value Frozen Item 631,Great Value,Frozen,8,7.42,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Great Value.,False,0.0,31,False,"non-GMO, low sugar, organic"
+Great Value Vegetables Item 632,Great Value,Vegetables,1,16.02,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Great Value.,False,0.0,15,True,low sugar
+Campbell's Toiletries Item 633,Campbell's,Toiletries,11,23.54,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Campbell's.,False,0.0,27,False,"high protein, low fat, non-GMO"
+Campbell's Bakery Item 634,Campbell's,Bakery,7,11.67,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Campbell's.,True,23.8,41,False,"low sugar, vegan, low fat"
+Great Value Toiletries Item 635,Great Value,Toiletries,11,19.48,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Great Value.,False,0.0,49,False,"vegan, organic, low sugar"
+Barilla Cleaning Item 636,Barilla,Cleaning,10,8.59,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Barilla.,False,0.0,23,False,"gluten-free, organic"
+Great Value Cereal Item 637,Great Value,Cereal,3,9.03,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Great Value.,False,0.0,32,False,"heart healthy, low fat"
+Barilla Meat Item 638,Barilla,Meat,9,3.85,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Barilla.,True,24.6,48,False,"non-GMO, gluten-free"
+Heinz Pasta Item 639,Heinz,Pasta,6,5.93,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Heinz.,True,24.1,50,True,high protein
+Dove Pasta Item 640,Dove,Pasta,6,24.35,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Dove.,False,0.0,0,False,"heart healthy, low sugar, gluten-free"
+Heinz Pet Food Item 641,Heinz,Pet Food,12,12.04,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Heinz.,False,0.0,25,False,gluten-free
+Colgate Pet Food Item 642,Colgate,Pet Food,12,13.27,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Colgate.,False,0.0,21,False,vegan
+Great Value Cereal Item 643,Great Value,Cereal,3,11.61,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Great Value.,False,0.0,50,False,"vegan, non-GMO"
+Nestle Meat Item 644,Nestle,Meat,9,1.91,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Nestle.,True,22.0,15,False,non-GMO
+Colgate Dairy Item 645,Colgate,Dairy,2,10.29,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Colgate.,False,0.0,29,False,vegan
+Colgate Pasta Item 646,Colgate,Pasta,6,9.29,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Colgate.,True,16.8,13,False,low sugar
+Kellogg's Vegetables Item 647,Kellogg's,Vegetables,1,20.52,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Kellogg's.,False,0.0,20,False,"vegan, low sugar"
+Dove Snacks Item 648,Dove,Snacks,5,22.18,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Dove.,False,0.0,18,False,"vegan, low fat, high protein"
+General Mills Dairy Item 649,General Mills,Dairy,2,2.25,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from General Mills.,False,0.0,33,False,"organic, low sugar"
+Heinz Condiments Item 650,Heinz,Condiments,3,3.53,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Heinz.,False,0.0,2,False,"high protein, non-GMO"
+Colgate Pet Food Item 651,Colgate,Pet Food,12,21.85,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Colgate.,False,0.0,13,False,"high protein, non-GMO, gluten-free"
+Nestle Bakery Item 652,Nestle,Bakery,7,13.79,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Nestle.,False,0.0,42,False,"organic, low sugar, low fat"
+Campbell's Meat Item 653,Campbell's,Meat,9,16.67,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Campbell's.,False,0.0,41,False,"gluten-free, high protein, vegan"
+Dove Cleaning Item 654,Dove,Cleaning,10,17.74,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Dove.,False,0.0,36,False,"high protein, organic, heart healthy"
+Colgate Frozen Item 655,Colgate,Frozen,8,2.72,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Colgate.,False,0.0,0,True,"organic, vegan"
+Kellogg's Beverages Item 656,Kellogg's,Beverages,4,14.44,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Kellogg's.,False,0.0,3,False,"organic, non-GMO"
+General Mills Pasta Item 657,General Mills,Pasta,6,16.05,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from General Mills.,True,29.9,48,False,"non-GMO, gluten-free"
+Colgate Meat Item 658,Colgate,Meat,9,8.88,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Colgate.,False,0.0,43,False,"low fat, gluten-free, non-GMO"
+Great Value Vegetables Item 659,Great Value,Vegetables,1,10.74,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Great Value.,True,17.6,43,False,vegan
+Dove Fruits Item 660,Dove,Fruits,1,22.6,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Dove.,False,0.0,16,False,organic
+Great Value Pasta Item 661,Great Value,Pasta,6,1.96,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Great Value.,False,0.0,30,False,"vegan, high protein, low fat"
+General Mills Pet Food Item 662,General Mills,Pet Food,12,14.39,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from General Mills.,True,28.5,33,False,"organic, non-GMO"
+Barilla Cleaning Item 663,Barilla,Cleaning,10,10.9,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Barilla.,False,0.0,45,True,high protein
+Nestle Vegetables Item 664,Nestle,Vegetables,1,13.52,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Nestle.,False,0.0,14,False,"gluten-free, non-GMO"
+Dove Cleaning Item 665,Dove,Cleaning,10,2.32,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Dove.,False,0.0,36,False,high protein
+Barilla Toiletries Item 666,Barilla,Toiletries,11,5.53,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Barilla.,False,0.0,3,False,gluten-free
+Nestle Frozen Item 667,Nestle,Frozen,8,2.26,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Nestle.,True,18.4,12,True,"gluten-free, non-GMO, vegan"
+Heinz Toiletries Item 668,Heinz,Toiletries,11,10.23,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Heinz.,False,0.0,28,True,"non-GMO, heart healthy, low fat"
+General Mills Meat Item 669,General Mills,Meat,9,8.64,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from General Mills.,False,0.0,30,False,"heart healthy, vegan, organic"
+Campbell's Fruits Item 670,Campbell's,Fruits,1,23.61,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Campbell's.,False,0.0,30,False,"vegan, organic"
+Campbell's Bakery Item 671,Campbell's,Bakery,7,19.2,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Campbell's.,False,0.0,23,False,gluten-free
+Campbell's Beverages Item 672,Campbell's,Beverages,4,13.46,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Campbell's.,False,0.0,10,False,"gluten-free, vegan"
+Heinz Bakery Item 673,Heinz,Bakery,7,17.67,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Heinz.,False,0.0,45,False,"low sugar, organic, low fat"
+Dove Condiments Item 674,Dove,Condiments,3,4.42,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Dove.,False,0.0,23,True,low sugar
+Colgate Cleaning Item 675,Colgate,Cleaning,10,3.68,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Colgate.,False,0.0,23,False,"heart healthy, organic"
+Campbell's Snacks Item 676,Campbell's,Snacks,5,20.23,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Campbell's.,True,17.9,6,False,"gluten-free, vegan, heart healthy"
+General Mills Bakery Item 677,General Mills,Bakery,7,9.58,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from General Mills.,False,0.0,36,False,"low fat, organic"
+Dove Toiletries Item 678,Dove,Toiletries,11,2.59,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Dove.,False,0.0,33,True,"organic, vegan, low sugar"
+Dove Vegetables Item 679,Dove,Vegetables,1,8.97,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Dove.,False,0.0,33,False,"vegan, gluten-free"
+General Mills Frozen Item 680,General Mills,Frozen,8,7.75,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from General Mills.,False,0.0,15,False,"heart healthy, low fat"
+Heinz Frozen Item 681,Heinz,Frozen,8,23.62,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Heinz.,False,0.0,8,False,"low fat, non-GMO"
+Great Value Toiletries Item 682,Great Value,Toiletries,11,7.31,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Great Value.,False,0.0,9,True,"gluten-free, low fat"
+Quaker Snacks Item 683,Quaker,Snacks,5,16.15,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Quaker.,True,9.3,39,False,"non-GMO, gluten-free"
+Colgate Vegetables Item 684,Colgate,Vegetables,1,11.16,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Colgate.,False,0.0,28,False,"low sugar, non-GMO, heart healthy"
+Dove Pet Food Item 685,Dove,Pet Food,12,23.05,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Dove.,False,0.0,23,False,"vegan, heart healthy, organic"
+Heinz Bakery Item 686,Heinz,Bakery,7,2.08,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Heinz.,False,0.0,6,False,"organic, heart healthy"
+Kellogg's Bakery Item 687,Kellogg's,Bakery,7,14.43,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Kellogg's.,False,0.0,22,False,"low sugar, low fat, high protein"
+Kellogg's Meat Item 688,Kellogg's,Meat,9,10.52,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Kellogg's.,False,0.0,43,False,"low fat, high protein"
+General Mills Beverages Item 689,General Mills,Beverages,4,16.01,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from General Mills.,False,0.0,20,False,"high protein, low sugar, low fat"
+Barilla Pet Food Item 690,Barilla,Pet Food,12,10.55,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Barilla.,True,17.6,1,False,"high protein, low sugar, organic"
+Campbell's Beverages Item 691,Campbell's,Beverages,4,7.87,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Campbell's.,True,25.3,44,False,non-GMO
+Colgate Frozen Item 692,Colgate,Frozen,8,16.86,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Colgate.,True,10.4,29,False,"non-GMO, low sugar, gluten-free"
+Kellogg's Cereal Item 693,Kellogg's,Cereal,3,7.81,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Kellogg's.,False,0.0,1,False,heart healthy
+Colgate Fruits Item 694,Colgate,Fruits,1,4.08,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Colgate.,False,0.0,6,False,gluten-free
+Kellogg's Dairy Item 695,Kellogg's,Dairy,2,20.47,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Kellogg's.,False,0.0,49,False,"vegan, heart healthy"
+Colgate Pasta Item 696,Colgate,Pasta,6,12.61,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Colgate.,True,9.8,0,True,non-GMO
+Kellogg's Cereal Item 697,Kellogg's,Cereal,3,24.75,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Kellogg's.,False,0.0,1,False,"non-GMO, gluten-free, organic"
+Dove Snacks Item 698,Dove,Snacks,5,19.16,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Dove.,False,0.0,2,False,"non-GMO, low fat, organic"
+Kellogg's Frozen Item 699,Kellogg's,Frozen,8,9.57,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Kellogg's.,False,0.0,38,False,heart healthy
+Colgate Cleaning Item 700,Colgate,Cleaning,10,6.53,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Colgate.,False,0.0,25,False,"vegan, high protein, organic"
+Heinz Meat Item 701,Heinz,Meat,9,7.9,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Heinz.,True,25.7,29,False,"low fat, vegan, high protein"
+Dove Pet Food Item 702,Dove,Pet Food,12,22.5,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Dove.,False,0.0,28,True,"low sugar, organic"
+Kellogg's Cereal Item 703,Kellogg's,Cereal,3,15.0,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Kellogg's.,False,0.0,44,False,organic
+Nestle Snacks Item 704,Nestle,Snacks,5,18.78,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Nestle.,False,0.0,38,False,"high protein, non-GMO, vegan"
+Nestle Snacks Item 705,Nestle,Snacks,5,16.57,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Nestle.,True,12.4,29,False,low fat
+Heinz Meat Item 706,Heinz,Meat,9,5.11,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Heinz.,False,0.0,18,False,heart healthy
+General Mills Toiletries Item 707,General Mills,Toiletries,11,18.44,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from General Mills.,True,26.9,36,False,heart healthy
+Nestle Fruits Item 708,Nestle,Fruits,1,4.89,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Nestle.,False,0.0,29,False,"low sugar, heart healthy, gluten-free"
+Nestle Cleaning Item 709,Nestle,Cleaning,10,24.47,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Nestle.,False,0.0,49,False,"low fat, low sugar"
+Kellogg's Toiletries Item 710,Kellogg's,Toiletries,11,21.14,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Kellogg's.,False,0.0,15,True,low sugar
+Colgate Pasta Item 711,Colgate,Pasta,6,18.2,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Colgate.,True,29.2,19,False,"non-GMO, organic"
+General Mills Frozen Item 712,General Mills,Frozen,8,10.18,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from General Mills.,True,29.3,38,False,"heart healthy, low fat, low sugar"
+Dove Toiletries Item 713,Dove,Toiletries,11,10.01,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Dove.,False,0.0,32,False,"low fat, heart healthy, low sugar"
+Campbell's Bakery Item 714,Campbell's,Bakery,7,2.47,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Campbell's.,False,0.0,32,True,"non-GMO, organic, low sugar"
+Kellogg's Vegetables Item 715,Kellogg's,Vegetables,1,6.7,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Kellogg's.,False,0.0,5,False,non-GMO
+Quaker Beverages Item 716,Quaker,Beverages,4,4.11,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Quaker.,False,0.0,4,False,"vegan, gluten-free, low fat"
+Campbell's Meat Item 717,Campbell's,Meat,9,11.41,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Campbell's.,True,27.5,17,False,"low sugar, organic"
+Colgate Cleaning Item 718,Colgate,Cleaning,10,7.25,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Colgate.,False,0.0,11,False,"gluten-free, low sugar, vegan"
+Barilla Meat Item 719,Barilla,Meat,9,7.67,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Barilla.,False,0.0,28,False,"non-GMO, high protein, vegan"
+Kellogg's Dairy Item 720,Kellogg's,Dairy,2,4.93,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Kellogg's.,False,0.0,23,True,"heart healthy, non-GMO, high protein"
+Dove Pet Food Item 721,Dove,Pet Food,12,4.87,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Dove.,False,0.0,7,False,"low fat, vegan"
+General Mills Dairy Item 722,General Mills,Dairy,2,23.95,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from General Mills.,True,25.4,0,False,"heart healthy, gluten-free, low sugar"
+Dove Bakery Item 723,Dove,Bakery,7,20.77,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Dove.,False,0.0,15,False,low fat
+Barilla Vegetables Item 724,Barilla,Vegetables,1,21.02,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Barilla.,False,0.0,32,False,"high protein, heart healthy, low sugar"
+Colgate Snacks Item 725,Colgate,Snacks,5,8.84,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Colgate.,False,0.0,36,False,"high protein, low sugar, gluten-free"
+Great Value Condiments Item 726,Great Value,Condiments,3,17.55,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Great Value.,False,0.0,15,False,vegan
+Great Value Fruits Item 727,Great Value,Fruits,1,21.57,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Great Value.,False,0.0,45,False,"high protein, low sugar"
+Heinz Snacks Item 728,Heinz,Snacks,5,14.14,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Heinz.,False,0.0,11,True,low fat
+Nestle Dairy Item 729,Nestle,Dairy,2,8.53,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Nestle.,False,0.0,1,False,"low sugar, gluten-free"
+Nestle Snacks Item 730,Nestle,Snacks,5,3.1,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Nestle.,False,0.0,45,False,low fat
+Nestle Cereal Item 731,Nestle,Cereal,3,24.24,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Nestle.,False,0.0,10,False,low sugar
+Kellogg's Bakery Item 732,Kellogg's,Bakery,7,12.4,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Kellogg's.,False,0.0,35,True,"organic, high protein"
+Nestle Pet Food Item 733,Nestle,Pet Food,12,21.86,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Nestle.,True,8.8,38,False,"organic, non-GMO"
+Campbell's Fruits Item 734,Campbell's,Fruits,1,24.18,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Campbell's.,False,0.0,38,False,"organic, heart healthy, low fat"
+Quaker Toiletries Item 735,Quaker,Toiletries,11,16.57,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Quaker.,False,0.0,39,True,"low sugar, non-GMO"
+Barilla Meat Item 736,Barilla,Meat,9,15.63,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Barilla.,False,0.0,37,False,"high protein, heart healthy, low fat"
+Kellogg's Snacks Item 737,Kellogg's,Snacks,5,11.21,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Kellogg's.,False,0.0,48,False,low sugar
+Heinz Frozen Item 738,Heinz,Frozen,8,2.02,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Heinz.,False,0.0,44,False,"high protein, heart healthy, vegan"
+Colgate Cleaning Item 739,Colgate,Cleaning,10,21.12,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Colgate.,False,0.0,47,False,"heart healthy, vegan"
+Great Value Snacks Item 740,Great Value,Snacks,5,1.93,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Great Value.,False,0.0,42,True,"non-GMO, low sugar"
+Barilla Dairy Item 741,Barilla,Dairy,2,23.44,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Barilla.,True,29.7,27,False,"non-GMO, vegan, high protein"
+General Mills Pasta Item 742,General Mills,Pasta,6,2.14,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from General Mills.,False,0.0,29,False,"low fat, vegan"
+Heinz Fruits Item 743,Heinz,Fruits,1,8.0,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Heinz.,False,0.0,16,False,"heart healthy, high protein, vegan"
+Nestle Toiletries Item 744,Nestle,Toiletries,11,20.73,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Nestle.,True,7.1,10,False,"heart healthy, organic"
+Quaker Cereal Item 745,Quaker,Cereal,3,23.23,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Quaker.,False,0.0,13,False,"non-GMO, heart healthy, vegan"
+Nestle Vegetables Item 746,Nestle,Vegetables,1,22.05,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Nestle.,False,0.0,38,False,"low fat, heart healthy, gluten-free"
+Dove Pet Food Item 747,Dove,Pet Food,12,14.49,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Dove.,False,0.0,30,False,"non-GMO, low sugar"
+Campbell's Snacks Item 748,Campbell's,Snacks,5,5.29,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Campbell's.,False,0.0,6,False,non-GMO
+Barilla Cleaning Item 749,Barilla,Cleaning,10,7.59,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Barilla.,False,0.0,26,False,high protein
+Colgate Condiments Item 750,Colgate,Condiments,3,4.54,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Colgate.,False,0.0,3,False,vegan
+Campbell's Meat Item 751,Campbell's,Meat,9,6.12,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Campbell's.,True,17.4,17,False,vegan
+Dove Cleaning Item 752,Dove,Cleaning,10,7.77,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Dove.,False,0.0,42,False,"high protein, low fat, heart healthy"
+Nestle Dairy Item 753,Nestle,Dairy,2,7.26,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Nestle.,True,11.1,19,False,"vegan, organic, low fat"
+Colgate Beverages Item 754,Colgate,Beverages,4,19.54,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Colgate.,False,0.0,38,False,"low sugar, gluten-free, heart healthy"
+Campbell's Pasta Item 755,Campbell's,Pasta,6,18.29,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Campbell's.,True,13.0,41,True,"vegan, gluten-free, organic"
+Dove Beverages Item 756,Dove,Beverages,4,15.53,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Dove.,False,0.0,26,False,"high protein, non-GMO, organic"
+Kellogg's Bakery Item 757,Kellogg's,Bakery,7,17.12,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Kellogg's.,True,29.5,48,False,"non-GMO, low fat, gluten-free"
+Heinz Dairy Item 758,Heinz,Dairy,2,24.56,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Heinz.,False,0.0,19,False,"heart healthy, high protein, non-GMO"
+Colgate Beverages Item 759,Colgate,Beverages,4,18.09,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Colgate.,False,0.0,46,False,"high protein, non-GMO, low sugar"
+Barilla Cereal Item 760,Barilla,Cereal,3,16.68,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Barilla.,False,0.0,46,False,"low fat, non-GMO, high protein"
+Kellogg's Vegetables Item 761,Kellogg's,Vegetables,1,16.94,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Kellogg's.,False,0.0,3,False,"gluten-free, heart healthy, low sugar"
+Great Value Vegetables Item 762,Great Value,Vegetables,1,2.91,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Great Value.,False,0.0,0,False,"high protein, heart healthy, low fat"
+Nestle Bakery Item 763,Nestle,Bakery,7,7.31,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Nestle.,False,0.0,27,False,vegan
+Quaker Pet Food Item 764,Quaker,Pet Food,12,18.1,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Quaker.,False,0.0,28,False,"vegan, low sugar"
+Campbell's Cereal Item 765,Campbell's,Cereal,3,18.4,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Campbell's.,False,0.0,41,False,"organic, heart healthy"
+Colgate Toiletries Item 766,Colgate,Toiletries,11,14.37,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Colgate.,True,11.3,15,False,"non-GMO, low fat, low sugar"
+Campbell's Pet Food Item 767,Campbell's,Pet Food,12,22.51,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Campbell's.,False,0.0,34,False,organic
+Kellogg's Snacks Item 768,Kellogg's,Snacks,5,24.03,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Kellogg's.,False,0.0,44,False,"heart healthy, high protein"
+Dove Toiletries Item 769,Dove,Toiletries,11,11.21,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Dove.,True,28.4,2,False,gluten-free
+Great Value Dairy Item 770,Great Value,Dairy,2,6.5,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Great Value.,False,0.0,4,False,low fat
+Campbell's Cereal Item 771,Campbell's,Cereal,3,5.93,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Campbell's.,True,26.6,50,False,"heart healthy, organic, high protein"
+Quaker Beverages Item 772,Quaker,Beverages,4,7.7,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Quaker.,False,0.0,42,False,low sugar
+Great Value Toiletries Item 773,Great Value,Toiletries,11,18.24,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Great Value.,True,6.6,31,False,low fat
+Colgate Meat Item 774,Colgate,Meat,9,18.6,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Colgate.,True,22.5,50,False,"vegan, non-GMO, gluten-free"
+General Mills Meat Item 775,General Mills,Meat,9,17.17,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from General Mills.,False,0.0,16,False,"vegan, high protein, low fat"
+Nestle Snacks Item 776,Nestle,Snacks,5,7.4,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Nestle.,False,0.0,46,False,"heart healthy, low fat, non-GMO"
+Barilla Frozen Item 777,Barilla,Frozen,8,9.07,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Barilla.,False,0.0,9,False,non-GMO
+Quaker Meat Item 778,Quaker,Meat,9,11.51,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Quaker.,False,0.0,35,False,organic
+Heinz Pet Food Item 779,Heinz,Pet Food,12,2.07,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Heinz.,False,0.0,32,False,"organic, low fat, non-GMO"
+Campbell's Vegetables Item 780,Campbell's,Vegetables,1,10.96,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Campbell's.,True,29.0,44,True,"high protein, heart healthy"
+Quaker Bakery Item 781,Quaker,Bakery,7,8.39,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Quaker.,False,0.0,27,False,gluten-free
+General Mills Toiletries Item 782,General Mills,Toiletries,11,1.78,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from General Mills.,False,0.0,5,False,"organic, low sugar, low fat"
+General Mills Bakery Item 783,General Mills,Bakery,7,7.99,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from General Mills.,True,26.7,27,False,non-GMO
+Dove Snacks Item 784,Dove,Snacks,5,4.7,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Dove.,True,11.9,29,False,high protein
+Quaker Dairy Item 785,Quaker,Dairy,2,12.69,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Quaker.,False,0.0,47,False,"organic, low fat, heart healthy"
+Heinz Beverages Item 786,Heinz,Beverages,4,12.81,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Heinz.,False,0.0,47,False,organic
+Barilla Toiletries Item 787,Barilla,Toiletries,11,15.93,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Barilla.,True,25.7,50,False,non-GMO
+Barilla Dairy Item 788,Barilla,Dairy,2,18.33,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Barilla.,False,0.0,41,False,"gluten-free, organic, heart healthy"
+Kellogg's Snacks Item 789,Kellogg's,Snacks,5,22.7,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Kellogg's.,False,0.0,7,False,"low sugar, organic"
+Colgate Beverages Item 790,Colgate,Beverages,4,7.64,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Colgate.,False,0.0,34,False,"gluten-free, organic, vegan"
+Dove Cereal Item 791,Dove,Cereal,3,20.88,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Dove.,False,0.0,11,False,"low sugar, heart healthy, gluten-free"
+Colgate Cleaning Item 792,Colgate,Cleaning,10,19.9,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Colgate.,False,0.0,14,True,high protein
+Colgate Condiments Item 793,Colgate,Condiments,3,14.65,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Colgate.,False,0.0,1,False,"vegan, heart healthy, low fat"
+General Mills Meat Item 794,General Mills,Meat,9,24.66,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from General Mills.,False,0.0,40,False,vegan
+Great Value Fruits Item 795,Great Value,Fruits,1,21.79,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Great Value.,False,0.0,35,False,"low fat, heart healthy, organic"
+Heinz Toiletries Item 796,Heinz,Toiletries,11,11.01,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Heinz.,False,0.0,22,False,"organic, low fat"
+Quaker Bakery Item 797,Quaker,Bakery,7,6.4,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Quaker.,True,8.1,28,False,heart healthy
+Barilla Toiletries Item 798,Barilla,Toiletries,11,20.89,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Barilla.,False,0.0,12,False,"heart healthy, non-GMO"
+Great Value Bakery Item 799,Great Value,Bakery,7,10.46,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Great Value.,False,0.0,17,False,"vegan, low fat, heart healthy"
+Colgate Beverages Item 800,Colgate,Beverages,4,15.75,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Colgate.,False,0.0,6,False,non-GMO
+Campbell's Dairy Item 801,Campbell's,Dairy,2,13.14,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Campbell's.,False,0.0,50,False,"heart healthy, gluten-free, non-GMO"
+Great Value Condiments Item 802,Great Value,Condiments,3,12.62,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Great Value.,True,10.5,27,True,high protein
+Colgate Pasta Item 803,Colgate,Pasta,6,21.21,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Colgate.,False,0.0,3,False,gluten-free
+Nestle Cleaning Item 804,Nestle,Cleaning,10,16.89,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Nestle.,True,24.5,32,True,"low fat, high protein"
+Dove Dairy Item 805,Dove,Dairy,2,22.39,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Dove.,False,0.0,32,False,"heart healthy, high protein, organic"
+Campbell's Vegetables Item 806,Campbell's,Vegetables,1,10.53,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Campbell's.,False,0.0,47,True,"heart healthy, vegan"
+Campbell's Snacks Item 807,Campbell's,Snacks,5,9.83,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Campbell's.,False,0.0,10,False,low fat
+Dove Condiments Item 808,Dove,Condiments,3,19.78,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Dove.,True,17.5,15,False,"low sugar, organic, heart healthy"
+Barilla Fruits Item 809,Barilla,Fruits,1,12.1,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Barilla.,False,0.0,30,False,"non-GMO, low sugar"
+Colgate Vegetables Item 810,Colgate,Vegetables,1,17.6,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Colgate.,False,0.0,9,False,gluten-free
+General Mills Cleaning Item 811,General Mills,Cleaning,10,20.34,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from General Mills.,True,25.2,32,False,"non-GMO, vegan, high protein"
+Colgate Condiments Item 812,Colgate,Condiments,3,22.76,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Colgate.,False,0.0,33,False,"heart healthy, high protein, low fat"
+Heinz Cereal Item 813,Heinz,Cereal,3,17.12,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Heinz.,False,0.0,38,False,non-GMO
+Campbell's Meat Item 814,Campbell's,Meat,9,12.99,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Campbell's.,True,6.1,6,False,"organic, high protein"
+Great Value Snacks Item 815,Great Value,Snacks,5,12.34,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Great Value.,True,14.5,11,False,organic
+Great Value Bakery Item 816,Great Value,Bakery,7,3.45,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Great Value.,False,0.0,8,False,"non-GMO, vegan"
+Heinz Dairy Item 817,Heinz,Dairy,2,10.28,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Heinz.,True,6.3,14,False,"vegan, low sugar, heart healthy"
+Barilla Bakery Item 818,Barilla,Bakery,7,20.87,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Barilla.,False,0.0,5,False,"vegan, low fat"
+General Mills Fruits Item 819,General Mills,Fruits,1,14.51,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from General Mills.,False,0.0,34,False,"non-GMO, high protein, gluten-free"
+Quaker Condiments Item 820,Quaker,Condiments,3,19.94,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Quaker.,False,0.0,50,True,"heart healthy, low sugar"
+Colgate Meat Item 821,Colgate,Meat,9,21.41,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Colgate.,False,0.0,46,False,low sugar
+General Mills Cereal Item 822,General Mills,Cereal,3,7.91,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from General Mills.,False,0.0,47,False,vegan
+Barilla Cereal Item 823,Barilla,Cereal,3,16.84,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Barilla.,True,15.6,50,False,"low fat, non-GMO, gluten-free"
+Kellogg's Vegetables Item 824,Kellogg's,Vegetables,1,2.18,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Kellogg's.,False,0.0,29,False,"low fat, vegan"
+General Mills Pet Food Item 825,General Mills,Pet Food,12,13.81,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from General Mills.,False,0.0,24,False,"vegan, low fat"
+Quaker Beverages Item 826,Quaker,Beverages,4,14.76,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Quaker.,True,18.0,15,False,vegan
+Heinz Cleaning Item 827,Heinz,Cleaning,10,21.95,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Heinz.,False,0.0,37,False,"heart healthy, low fat"
+Heinz Pet Food Item 828,Heinz,Pet Food,12,20.26,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Heinz.,True,16.1,39,False,"low fat, gluten-free"
+Barilla Cereal Item 829,Barilla,Cereal,3,10.78,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Barilla.,False,0.0,10,False,"vegan, heart healthy, non-GMO"
+Campbell's Vegetables Item 830,Campbell's,Vegetables,1,11.87,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Campbell's.,True,24.8,10,False,vegan
+Quaker Pasta Item 831,Quaker,Pasta,6,12.18,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Quaker.,False,0.0,48,False,"non-GMO, vegan, high protein"
+Campbell's Fruits Item 832,Campbell's,Fruits,1,19.06,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Campbell's.,False,0.0,43,True,"low fat, organic, low sugar"
+Heinz Pet Food Item 833,Heinz,Pet Food,12,18.09,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Heinz.,False,0.0,19,False,"low fat, heart healthy, non-GMO"
+Great Value Pasta Item 834,Great Value,Pasta,6,14.96,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Great Value.,False,0.0,41,True,low fat
+Barilla Pasta Item 835,Barilla,Pasta,6,6.65,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Barilla.,False,0.0,46,True,"heart healthy, vegan"
+Heinz Meat Item 836,Heinz,Meat,9,9.13,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Heinz.,False,0.0,30,False,vegan
+Quaker Pet Food Item 837,Quaker,Pet Food,12,24.83,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Quaker.,True,26.1,31,False,"heart healthy, low fat"
+Great Value Snacks Item 838,Great Value,Snacks,5,7.88,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Great Value.,True,13.1,11,False,high protein
+Great Value Frozen Item 839,Great Value,Frozen,8,4.54,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Great Value.,False,0.0,47,True,heart healthy
+Dove Cleaning Item 840,Dove,Cleaning,10,18.93,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Dove.,False,0.0,40,False,vegan
+Campbell's Cereal Item 841,Campbell's,Cereal,3,1.71,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Campbell's.,False,0.0,36,False,organic
+Great Value Meat Item 842,Great Value,Meat,9,13.44,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Great Value.,False,0.0,30,False,"high protein, heart healthy, gluten-free"
+Dove Condiments Item 843,Dove,Condiments,3,23.15,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Dove.,True,14.9,20,False,non-GMO
+Kellogg's Bakery Item 844,Kellogg's,Bakery,7,16.69,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Kellogg's.,True,19.4,16,False,organic
+Heinz Pet Food Item 845,Heinz,Pet Food,12,3.0,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Heinz.,False,0.0,41,False,"high protein, gluten-free"
+Colgate Cleaning Item 846,Colgate,Cleaning,10,18.3,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Colgate.,False,0.0,18,False,"vegan, heart healthy, non-GMO"
+Colgate Beverages Item 847,Colgate,Beverages,4,11.42,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Colgate.,True,20.4,10,False,"high protein, low sugar"
+Nestle Beverages Item 848,Nestle,Beverages,4,19.62,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Nestle.,True,27.9,7,True,gluten-free
+General Mills Beverages Item 849,General Mills,Beverages,4,21.99,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from General Mills.,False,0.0,0,False,low fat
+Great Value Cereal Item 850,Great Value,Cereal,3,19.2,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Great Value.,False,0.0,31,False,gluten-free
+Dove Snacks Item 851,Dove,Snacks,5,21.9,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Dove.,False,0.0,31,False,"high protein, low fat, low sugar"
+Quaker Snacks Item 852,Quaker,Snacks,5,20.56,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Quaker.,True,6.6,19,False,high protein
+Campbell's Snacks Item 853,Campbell's,Snacks,5,11.17,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Campbell's.,True,24.0,48,False,"heart healthy, low fat"
+Kellogg's Vegetables Item 854,Kellogg's,Vegetables,1,22.56,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Kellogg's.,False,0.0,13,False,heart healthy
+Quaker Beverages Item 855,Quaker,Beverages,4,4.22,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Quaker.,True,13.4,47,False,non-GMO
+Nestle Pet Food Item 856,Nestle,Pet Food,12,10.0,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Nestle.,False,0.0,18,False,"low fat, gluten-free"
+Barilla Pasta Item 857,Barilla,Pasta,6,4.92,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Barilla.,False,0.0,36,False,"organic, low fat"
+Campbell's Beverages Item 858,Campbell's,Beverages,4,2.94,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Campbell's.,False,0.0,50,False,"gluten-free, low fat"
+Great Value Cereal Item 859,Great Value,Cereal,3,16.63,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Great Value.,False,0.0,44,True,"high protein, organic"
+Kellogg's Pet Food Item 860,Kellogg's,Pet Food,12,8.73,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Kellogg's.,True,24.8,0,False,"gluten-free, non-GMO, vegan"
+Colgate Dairy Item 861,Colgate,Dairy,2,11.41,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Colgate.,False,0.0,49,False,"high protein, vegan, gluten-free"
+Heinz Snacks Item 862,Heinz,Snacks,5,6.24,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Heinz.,False,0.0,38,False,high protein
+General Mills Pasta Item 863,General Mills,Pasta,6,16.07,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from General Mills.,False,0.0,47,False,"low sugar, gluten-free, vegan"
+Colgate Bakery Item 864,Colgate,Bakery,7,1.84,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Colgate.,False,0.0,43,False,"heart healthy, non-GMO, low sugar"
+Heinz Meat Item 865,Heinz,Meat,9,5.75,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Heinz.,False,0.0,37,False,non-GMO
+Nestle Vegetables Item 866,Nestle,Vegetables,1,8.96,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Nestle.,False,0.0,45,False,non-GMO
+Campbell's Dairy Item 867,Campbell's,Dairy,2,11.08,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Campbell's.,False,0.0,42,False,"low fat, gluten-free, high protein"
+Heinz Bakery Item 868,Heinz,Bakery,7,9.17,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Heinz.,True,21.6,28,False,"low fat, vegan, organic"
+Nestle Meat Item 869,Nestle,Meat,9,20.94,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Nestle.,True,17.5,38,False,non-GMO
+Kellogg's Condiments Item 870,Kellogg's,Condiments,3,24.27,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Kellogg's.,True,25.3,46,False,"non-GMO, low sugar"
+Dove Frozen Item 871,Dove,Frozen,8,21.12,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Dove.,False,0.0,21,False,"heart healthy, gluten-free, low fat"
+Great Value Cereal Item 872,Great Value,Cereal,3,19.46,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Great Value.,False,0.0,3,False,heart healthy
+Colgate Bakery Item 873,Colgate,Bakery,7,7.59,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Colgate.,True,10.4,49,False,"low fat, low sugar"
+Great Value Pet Food Item 874,Great Value,Pet Food,12,9.31,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Great Value.,False,0.0,23,False,"vegan, low fat, low sugar"
+Great Value Cleaning Item 875,Great Value,Cleaning,10,18.34,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Great Value.,False,0.0,21,False,vegan
+Great Value Fruits Item 876,Great Value,Fruits,1,8.63,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Great Value.,False,0.0,26,False,"high protein, low sugar"
+Kellogg's Snacks Item 877,Kellogg's,Snacks,5,16.97,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Kellogg's.,False,0.0,17,False,"organic, low sugar"
+Dove Dairy Item 878,Dove,Dairy,2,13.53,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Dove.,True,12.1,39,False,"low sugar, vegan"
+Dove Snacks Item 879,Dove,Snacks,5,22.48,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Dove.,False,0.0,44,False,heart healthy
+Colgate Frozen Item 880,Colgate,Frozen,8,24.46,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Colgate.,False,0.0,28,False,vegan
+Kellogg's Vegetables Item 881,Kellogg's,Vegetables,1,19.06,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Kellogg's.,True,14.0,7,True,low fat
+Kellogg's Cereal Item 882,Kellogg's,Cereal,3,8.72,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Kellogg's.,True,16.3,31,True,"high protein, vegan, non-GMO"
+Barilla Meat Item 883,Barilla,Meat,9,14.9,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Barilla.,True,29.7,41,False,"low fat, vegan"
+Colgate Cleaning Item 884,Colgate,Cleaning,10,15.61,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Colgate.,False,0.0,33,True,"heart healthy, gluten-free, non-GMO"
+Kellogg's Pasta Item 885,Kellogg's,Pasta,6,7.16,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Kellogg's.,True,15.1,12,False,"low fat, low sugar"
+Dove Toiletries Item 886,Dove,Toiletries,11,13.84,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Dove.,False,0.0,9,False,"organic, vegan, low fat"
+Dove Meat Item 887,Dove,Meat,9,14.1,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Dove.,True,7.0,18,False,"organic, low fat"
+Campbell's Snacks Item 888,Campbell's,Snacks,5,8.61,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Campbell's.,True,5.4,32,False,"organic, low fat"
+Great Value Condiments Item 889,Great Value,Condiments,3,2.25,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Great Value.,False,0.0,20,False,high protein
+Dove Condiments Item 890,Dove,Condiments,3,19.36,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Dove.,False,0.0,19,False,"low sugar, low fat, organic"
+Colgate Bakery Item 891,Colgate,Bakery,7,2.25,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Colgate.,False,0.0,22,False,"low fat, low sugar, vegan"
+Nestle Cleaning Item 892,Nestle,Cleaning,10,2.69,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Nestle.,True,11.8,4,False,"high protein, vegan, gluten-free"
+Quaker Frozen Item 893,Quaker,Frozen,8,2.14,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Quaker.,False,0.0,19,False,"heart healthy, low sugar"
+General Mills Bakery Item 894,General Mills,Bakery,7,14.84,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from General Mills.,False,0.0,28,False,"low sugar, high protein, vegan"
+Dove Frozen Item 895,Dove,Frozen,8,21.1,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Dove.,True,11.9,33,False,"low sugar, gluten-free"
+Dove Beverages Item 896,Dove,Beverages,4,20.51,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Dove.,False,0.0,20,False,vegan
+Quaker Cleaning Item 897,Quaker,Cleaning,10,21.29,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Quaker.,False,0.0,24,False,gluten-free
+Kellogg's Pet Food Item 898,Kellogg's,Pet Food,12,12.72,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Kellogg's.,True,19.9,11,False,"gluten-free, high protein"
+Heinz Snacks Item 899,Heinz,Snacks,5,2.51,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Heinz.,True,13.0,42,False,"heart healthy, non-GMO, gluten-free"
+Quaker Bakery Item 900,Quaker,Bakery,7,8.94,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Quaker.,False,0.0,26,True,"low fat, gluten-free, non-GMO"
+Heinz Snacks Item 901,Heinz,Snacks,5,10.38,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Heinz.,False,0.0,50,False,"organic, heart healthy, gluten-free"
+Colgate Meat Item 902,Colgate,Meat,9,20.69,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Colgate.,True,19.5,12,False,low sugar
+General Mills Cereal Item 903,General Mills,Cereal,3,22.04,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from General Mills.,False,0.0,9,False,"heart healthy, low fat, non-GMO"
+Colgate Pasta Item 904,Colgate,Pasta,6,5.75,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Colgate.,True,22.1,24,False,"low sugar, low fat"
+Dove Vegetables Item 905,Dove,Vegetables,1,5.1,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Dove.,True,21.5,17,False,"gluten-free, non-GMO"
+Great Value Pet Food Item 906,Great Value,Pet Food,12,9.07,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Great Value.,False,0.0,14,False,"vegan, gluten-free"
+Barilla Cleaning Item 907,Barilla,Cleaning,10,11.77,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Barilla.,False,0.0,30,False,"low fat, organic"
+Nestle Frozen Item 908,Nestle,Frozen,8,10.04,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Nestle.,False,0.0,2,True,"gluten-free, organic, vegan"
+Campbell's Pasta Item 909,Campbell's,Pasta,6,21.88,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Campbell's.,False,0.0,4,False,"gluten-free, high protein, low sugar"
+Quaker Snacks Item 910,Quaker,Snacks,5,13.88,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Quaker.,True,11.4,37,False,high protein
+Nestle Toiletries Item 911,Nestle,Toiletries,11,17.67,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Nestle.,False,0.0,39,False,heart healthy
+Barilla Condiments Item 912,Barilla,Condiments,3,10.53,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Barilla.,False,0.0,29,False,"low fat, non-GMO, heart healthy"
+Nestle Frozen Item 913,Nestle,Frozen,8,15.0,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Nestle.,False,0.0,39,False,"gluten-free, high protein"
+Great Value Pet Food Item 914,Great Value,Pet Food,12,9.78,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Great Value.,False,0.0,48,False,"vegan, gluten-free"
+Nestle Pasta Item 915,Nestle,Pasta,6,20.42,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Nestle.,True,24.9,28,False,non-GMO
+Campbell's Snacks Item 916,Campbell's,Snacks,5,18.81,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Campbell's.,False,0.0,28,False,"low fat, organic, non-GMO"
+Quaker Fruits Item 917,Quaker,Fruits,1,16.92,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Quaker.,True,7.6,15,False,high protein
+Nestle Meat Item 918,Nestle,Meat,9,14.8,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Nestle.,False,0.0,49,False,"organic, gluten-free"
+Quaker Bakery Item 919,Quaker,Bakery,7,22.86,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Quaker.,False,0.0,35,False,"heart healthy, gluten-free"
+Quaker Fruits Item 920,Quaker,Fruits,1,16.58,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Quaker.,False,0.0,48,False,"heart healthy, vegan"
+Great Value Fruits Item 921,Great Value,Fruits,1,6.84,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Great Value.,False,0.0,28,True,non-GMO
+Kellogg's Cereal Item 922,Kellogg's,Cereal,3,2.08,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Kellogg's.,False,0.0,47,False,"heart healthy, vegan, organic"
+Great Value Beverages Item 923,Great Value,Beverages,4,13.56,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Great Value.,False,0.0,11,False,"vegan, organic"
+Quaker Meat Item 924,Quaker,Meat,9,5.08,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Quaker.,False,0.0,14,False,"organic, vegan, high protein"
+Colgate Pet Food Item 925,Colgate,Pet Food,12,6.69,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Colgate.,True,8.6,15,False,"non-GMO, heart healthy, high protein"
+Heinz Frozen Item 926,Heinz,Frozen,8,23.0,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Heinz.,False,0.0,29,False,"high protein, low fat"
+Campbell's Fruits Item 927,Campbell's,Fruits,1,23.48,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Campbell's.,False,0.0,45,False,"non-GMO, heart healthy, low sugar"
+Nestle Vegetables Item 928,Nestle,Vegetables,1,11.86,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Nestle.,True,6.2,37,True,"low fat, non-GMO, organic"
+Dove Dairy Item 929,Dove,Dairy,2,24.23,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Dove.,False,0.0,1,False,"organic, gluten-free, vegan"
+Nestle Meat Item 930,Nestle,Meat,9,17.22,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Nestle.,False,0.0,11,False,"gluten-free, low sugar, heart healthy"
+Quaker Cleaning Item 931,Quaker,Cleaning,10,16.54,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Quaker.,False,0.0,17,False,"organic, non-GMO, vegan"
+Quaker Cereal Item 932,Quaker,Cereal,3,16.16,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Quaker.,False,0.0,24,False,"organic, gluten-free, non-GMO"
+Kellogg's Dairy Item 933,Kellogg's,Dairy,2,10.16,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Kellogg's.,True,22.1,44,False,"low fat, non-GMO"
+Nestle Pet Food Item 934,Nestle,Pet Food,12,3.98,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Nestle.,True,9.2,1,False,gluten-free
+Great Value Pet Food Item 935,Great Value,Pet Food,12,5.24,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Great Value.,False,0.0,0,False,"non-GMO, low sugar"
+Quaker Bakery Item 936,Quaker,Bakery,7,20.95,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Quaker.,False,0.0,29,False,low fat
+Great Value Frozen Item 937,Great Value,Frozen,8,9.68,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Great Value.,False,0.0,21,False,"heart healthy, low sugar"
+Dove Toiletries Item 938,Dove,Toiletries,11,6.85,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Dove.,False,0.0,14,False,"heart healthy, low fat, vegan"
+Kellogg's Meat Item 939,Kellogg's,Meat,9,5.99,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Kellogg's.,True,19.4,11,False,vegan
+Nestle Pet Food Item 940,Nestle,Pet Food,12,18.26,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Nestle.,True,7.8,14,False,gluten-free
+Nestle Frozen Item 941,Nestle,Frozen,8,22.39,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Nestle.,False,0.0,3,True,vegan
+Dove Cereal Item 942,Dove,Cereal,3,18.51,https://images.unsplash.com/photo-1585238341971-fd1a5cddb951,A quality cereal product from Dove.,False,0.0,15,False,"gluten-free, low sugar, high protein"
+Campbell's Pasta Item 943,Campbell's,Pasta,6,16.79,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Campbell's.,True,29.7,48,False,"heart healthy, low sugar"
+Barilla Pasta Item 944,Barilla,Pasta,6,6.11,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Barilla.,False,0.0,1,False,"non-GMO, heart healthy"
+Dove Condiments Item 945,Dove,Condiments,3,14.21,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Dove.,False,0.0,39,False,"non-GMO, gluten-free, low fat"
+Heinz Vegetables Item 946,Heinz,Vegetables,1,3.28,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Heinz.,False,0.0,26,False,vegan
+Kellogg's Cleaning Item 947,Kellogg's,Cleaning,10,7.26,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Kellogg's.,False,0.0,14,False,"low sugar, gluten-free"
+Heinz Cleaning Item 948,Heinz,Cleaning,10,24.24,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Heinz.,False,0.0,1,False,organic
+Kellogg's Snacks Item 949,Kellogg's,Snacks,5,3.05,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Kellogg's.,False,0.0,38,False,"organic, low fat, high protein"
+Quaker Fruits Item 950,Quaker,Fruits,1,21.61,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Quaker.,False,0.0,11,False,"low fat, gluten-free"
+Dove Bakery Item 951,Dove,Bakery,7,19.31,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Dove.,False,0.0,9,False,"high protein, non-GMO"
+Campbell's Dairy Item 952,Campbell's,Dairy,2,1.96,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Campbell's.,False,0.0,12,False,"organic, low fat"
+Barilla Condiments Item 953,Barilla,Condiments,3,15.87,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Barilla.,False,0.0,30,False,organic
+Barilla Frozen Item 954,Barilla,Frozen,8,21.29,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Barilla.,True,19.7,1,False,"vegan, gluten-free"
+Dove Condiments Item 955,Dove,Condiments,3,10.84,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Dove.,False,0.0,35,False,"high protein, low sugar, low fat"
+Kellogg's Pasta Item 956,Kellogg's,Pasta,6,18.18,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Kellogg's.,True,15.8,33,False,"low fat, low sugar"
+Kellogg's Vegetables Item 957,Kellogg's,Vegetables,1,19.13,https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2,A quality vegetables product from Kellogg's.,True,10.1,36,False,"low sugar, gluten-free, organic"
+General Mills Pasta Item 958,General Mills,Pasta,6,1.83,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from General Mills.,False,0.0,20,False,"high protein, gluten-free, low sugar"
+General Mills Dairy Item 959,General Mills,Dairy,2,5.4,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from General Mills.,False,0.0,34,False,"heart healthy, non-GMO"
+Campbell's Bakery Item 960,Campbell's,Bakery,7,20.63,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Campbell's.,False,0.0,1,False,low sugar
+Great Value Cleaning Item 961,Great Value,Cleaning,10,13.04,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Great Value.,False,0.0,1,False,"high protein, organic, non-GMO"
+Dove Frozen Item 962,Dove,Frozen,8,11.76,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Dove.,False,0.0,48,False,non-GMO
+Great Value Pet Food Item 963,Great Value,Pet Food,12,2.92,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Great Value.,False,0.0,46,False,"low fat, vegan, gluten-free"
+Great Value Bakery Item 964,Great Value,Bakery,7,8.97,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Great Value.,False,0.0,10,False,low fat
+Colgate Pasta Item 965,Colgate,Pasta,6,17.45,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Colgate.,False,0.0,2,False,"heart healthy, vegan"
+General Mills Bakery Item 966,General Mills,Bakery,7,18.27,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from General Mills.,True,9.0,7,False,"organic, heart healthy, low fat"
+Heinz Pasta Item 967,Heinz,Pasta,6,10.23,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Heinz.,False,0.0,47,False,"non-GMO, vegan, low sugar"
+Campbell's Frozen Item 968,Campbell's,Frozen,8,14.06,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Campbell's.,False,0.0,23,False,"vegan, high protein, gluten-free"
+Campbell's Frozen Item 969,Campbell's,Frozen,8,7.55,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Campbell's.,False,0.0,13,False,"heart healthy, organic"
+Great Value Meat Item 970,Great Value,Meat,9,5.0,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Great Value.,False,0.0,3,False,"low fat, low sugar"
+Heinz Meat Item 971,Heinz,Meat,9,15.31,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Heinz.,False,0.0,1,False,non-GMO
+Quaker Condiments Item 972,Quaker,Condiments,3,9.74,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Quaker.,True,14.3,19,False,heart healthy
+Kellogg's Cleaning Item 973,Kellogg's,Cleaning,10,15.86,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Kellogg's.,False,0.0,16,False,low sugar
+Great Value Pet Food Item 974,Great Value,Pet Food,12,5.37,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Great Value.,False,0.0,26,False,high protein
+Colgate Meat Item 975,Colgate,Meat,9,20.09,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Colgate.,True,13.5,25,False,"high protein, heart healthy"
+General Mills Dairy Item 976,General Mills,Dairy,2,14.08,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from General Mills.,False,0.0,15,False,low sugar
+Heinz Pet Food Item 977,Heinz,Pet Food,12,18.62,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Heinz.,False,0.0,1,False,non-GMO
+Nestle Dairy Item 978,Nestle,Dairy,2,17.74,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Nestle.,False,0.0,5,False,"low fat, low sugar"
+General Mills Condiments Item 979,General Mills,Condiments,3,6.75,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from General Mills.,False,0.0,33,False,"heart healthy, high protein"
+Kellogg's Toiletries Item 980,Kellogg's,Toiletries,11,8.89,https://images.unsplash.com/photo-1610911845064-956464e6df5c,A quality toiletries product from Kellogg's.,True,14.2,44,True,"organic, low sugar"
+Kellogg's Frozen Item 981,Kellogg's,Frozen,8,3.23,https://images.unsplash.com/photo-1607277511772-4e5b30844b35,A quality frozen product from Kellogg's.,False,0.0,29,False,organic
+Dove Condiments Item 982,Dove,Condiments,3,18.15,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Dove.,False,0.0,12,False,organic
+Colgate Beverages Item 983,Colgate,Beverages,4,6.14,https://images.unsplash.com/photo-1571072019620-1a60c7cde407,A quality beverages product from Colgate.,True,20.7,17,False,heart healthy
+Nestle Meat Item 984,Nestle,Meat,9,21.37,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Nestle.,True,6.8,44,False,"heart healthy, organic"
+Quaker Snacks Item 985,Quaker,Snacks,5,8.33,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from Quaker.,True,5.5,28,False,non-GMO
+Heinz Cleaning Item 986,Heinz,Cleaning,10,12.39,https://images.unsplash.com/photo-1603468621535-22e361e26a8c,A quality cleaning product from Heinz.,False,0.0,14,False,"vegan, low fat"
+General Mills Pasta Item 987,General Mills,Pasta,6,8.46,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from General Mills.,True,11.7,45,False,high protein
+Campbell's Meat Item 988,Campbell's,Meat,9,2.77,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Campbell's.,False,0.0,49,False,"heart healthy, high protein, low sugar"
+Campbell's Condiments Item 989,Campbell's,Condiments,3,22.2,https://images.unsplash.com/photo-1589302168068-964664d93dc0,A quality condiments product from Campbell's.,False,0.0,26,False,"high protein, organic, low fat"
+Nestle Fruits Item 990,Nestle,Fruits,1,16.02,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Nestle.,False,0.0,42,False,"high protein, low fat"
+Great Value Fruits Item 991,Great Value,Fruits,1,24.27,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Great Value.,False,0.0,45,False,vegan
+Nestle Fruits Item 992,Nestle,Fruits,1,21.82,https://images.unsplash.com/photo-1574226516831-e1dff420e12b,A quality fruits product from Nestle.,False,0.0,7,False,high protein
+Quaker Pasta Item 993,Quaker,Pasta,6,23.06,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Quaker.,False,0.0,19,True,"organic, heart healthy"
+Dove Meat Item 994,Dove,Meat,9,7.43,https://images.unsplash.com/photo-1551183053-bf91a1d81141,A quality meat product from Dove.,False,0.0,30,False,"gluten-free, high protein"
+Heinz Dairy Item 995,Heinz,Dairy,2,18.05,https://images.unsplash.com/photo-1580910051073-d4b7c0e3f649,A quality dairy product from Heinz.,False,0.0,39,False,"heart healthy, organic"
+Quaker Bakery Item 996,Quaker,Bakery,7,4.56,https://images.unsplash.com/photo-1604908813263-0034e1ad0a7c,A quality bakery product from Quaker.,True,28.2,2,False,non-GMO
+Great Value Pet Food Item 997,Great Value,Pet Food,12,2.33,https://images.unsplash.com/photo-1601758064226-0a74f3a87eec,A quality pet food product from Great Value.,False,0.0,45,False,"gluten-free, heart healthy"
+General Mills Snacks Item 998,General Mills,Snacks,5,11.51,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from General Mills.,True,5.2,5,False,non-GMO
+Great Value Pasta Item 999,Great Value,Pasta,6,20.77,https://images.unsplash.com/photo-1600891964599-f61ba0e24092,A quality pasta product from Great Value.,False,0.0,50,False,low sugar
+General Mills Snacks Item 1000,General Mills,Snacks,5,13.44,https://images.unsplash.com/photo-1585238342021-6c71f3b88e4c,A quality snacks product from General Mills.,False,0.0,7,False,vegan
