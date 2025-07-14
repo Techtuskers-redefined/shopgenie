@@ -30,7 +30,7 @@ ShopGenie is an AI-powered smart shopping assistant that enhances the retail exp
 | Layer        | Tech                                  |
 |--------------|----------------------------------------|
 | Language Model | OpenAI GPT-4 / Grok API               |
-| Backend      | Python, Flask (Optional)               |
+| Backend      | ExpressJS                                |
 | ML/NLP       | Scikit-learn, CountVectorizer, Cosine Similarity |
 | Dataset      | Mock CSV (1000+ items)                   |
 | Output       | JSON (Product Name, Brand, Price, Aisle) |
