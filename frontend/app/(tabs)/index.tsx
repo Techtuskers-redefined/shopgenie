@@ -1,75 +1,135 @@
-import { Image } from 'expo-image';
-import { Platform, StyleSheet } from 'react-native';
-
-import { HelloWave } from '@/components/HelloWave';
-import ParallaxScrollView from '@/components/ParallaxScrollView';
-import { ThemedText } from '@/components/ThemedText';
-import { ThemedView } from '@/components/ThemedView';
+import React from 'react';
+import { View, Text, TouchableOpacity, ScrollView } from 'react-native';
+import { Ionicons } from '@expo/vector-icons';
+import { router } from 'expo-router';
+import { useAuth } from '../../hooks/useAuth';
+import { useTheme } from '../../hooks/useTheme';
 
 export default function HomeScreen() {
+  const { user } = useAuth();
+  const { colors, toggleTheme, isDark } = useTheme();
+
+  const promotions = [
+    { id: 1, title: '20% off Organic Produce', subtitle: 'Valid until tomorrow' },
+    { id: 2, title: 'Buy 2 Get 1 Free Dairy', subtitle: 'Selected items only' },
+    { id: 3, title: 'Fresh Bakery Items', subtitle: '15% off today' },
+  ];
+
   return (
-    <ParallaxScrollView
-      headerBackgroundColor={{ light: '#A1CEDC', dark: '#1D3D47' }}
-      headerImage={
-        <Image
-          source={require('@/assets/images/partial-react-logo.png')}
-          style={styles.reactLogo}
-        />
-      }>
-      <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Welcome!</ThemedText>
-        <HelloWave />
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 1: Try it</ThemedText>
-        <ThemedText>
-          Edit <ThemedText type="defaultSemiBold">app/(tabs)/index.tsx</ThemedText> to see changes.
-          Press{' '}
-          <ThemedText type="defaultSemiBold">
-            {Platform.select({
-              ios: 'cmd + d',
-              android: 'cmd + m',
-              web: 'F12',
-            })}
-          </ThemedText>{' '}
-          to open developer tools.
-        </ThemedText>
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 2: Explore</ThemedText>
-        <ThemedText>
-          {`Tap the Explore tab to learn more about what's included in this starter app.`}
-        </ThemedText>
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 3: Get a fresh start</ThemedText>
-        <ThemedText>
-          {`When you're ready, run `}
-          <ThemedText type="defaultSemiBold">npm run reset-project</ThemedText> to get a fresh{' '}
-          <ThemedText type="defaultSemiBold">app</ThemedText> directory. This will move the current{' '}
-          <ThemedText type="defaultSemiBold">app</ThemedText> to{' '}
-          <ThemedText type="defaultSemiBold">app-example</ThemedText>.
-        </ThemedText>
-      </ThemedView>
-    </ParallaxScrollView>
+    <ScrollView 
+      className="flex-1"
+      style={{ backgroundColor: colors.background }}
+    >
+      <View className="px-6 pt-12 pb-6">
+        {/* Header */}
+        <View className="flex-row justify-between items-center mb-6">
+          <View>
+            <Text 
+              className="text-2xl font-bold"
+              style={{ color: colors.text }}
+            >
+              Hello, {user?.name || 'Shopper'}!
+            </Text>
+            <Text 
+              className="text-base"
+              style={{ color: colors.textSecondary }}
+            >
+              Ready to start shopping?
+            </Text>
+          </View>
+          <TouchableOpacity onPress={toggleTheme}>
+            <Ionicons 
+              name={isDark ? 'sunny' : 'moon'} 
+              size={24} 
+              color={colors.text} 
+            />
+          </TouchableOpacity>
+        </View>
+
+        {/* Start Shopping Button */}
+        <TouchableOpacity
+          onPress={() => router.push('/assistant')}
+          className="bg-blue-600 rounded-xl p-6 mb-6"
+        >
+          <View className="flex-row items-center justify-between">
+            <View>
+              <Text className="text-white text-xl font-bold mb-1">
+                Start Shopping
+              </Text>
+              <Text className="text-white/80">
+                Let our AI assistant help you
+              </Text>
+            </View>
+            <Ionicons name="arrow-forward" size={24} color="white" />
+          </View>
+        </TouchableOpacity>
+
+        {/* Promotions */}
+        <View className="mb-6">
+          <Text 
+            className="text-xl font-bold mb-4"
+            style={{ color: colors.text }}
+          >
+            Today&apos;s Deals
+          </Text>
+          {promotions.map((promo) => (
+            <TouchableOpacity
+              key={promo.id}
+              className="rounded-lg p-4 mb-3"
+              style={{ backgroundColor: colors.card }}
+            >
+              <Text 
+                className="font-semibold text-base mb-1"
+                style={{ color: colors.text }}
+              >
+                {promo.title}
+              </Text>
+              <Text style={{ color: colors.textSecondary }}>
+                {promo.subtitle}
+              </Text>
+            </TouchableOpacity>
+          ))}
+        </View>
+
+        {/* Quick Actions */}
+        <View className="mb-6">
+          <Text 
+            className="text-xl font-bold mb-4"
+            style={{ color: colors.text }}
+          >
+            Quick Actions
+          </Text>
+          <View className="flex-row justify-between">
+            <TouchableOpacity
+              onPress={() => router.push('/shopping-list')}
+              className="flex-1 rounded-lg p-4 mr-2 items-center"
+              style={{ backgroundColor: colors.card }}
+            >
+              <Ionicons name="list" size={32} color={colors.primary} />
+              <Text 
+                className="mt-2 font-medium text-center"
+                style={{ color: colors.text }}
+              >
+                My Lists
+              </Text>
+            </TouchableOpacity>
+            
+            <TouchableOpacity
+              onPress={() => router.push('/search')}
+              className="flex-1 rounded-lg p-4 ml-2 items-center"
+              style={{ backgroundColor: colors.card }}
+            >
+              <Ionicons name="search" size={32} color={colors.primary} />
+              <Text 
+                className="mt-2 font-medium text-center"
+                style={{ color: colors.text }}
+              >
+                Search
+              </Text>
+            </TouchableOpacity>
+          </View>
+        </View>
+      </View>
+    </ScrollView>
   );
 }
-
-const styles = StyleSheet.create({
-  titleContainer: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: 8,
-  },
-  stepContainer: {
-    gap: 8,
-    marginBottom: 8,
-  },
-  reactLogo: {
-    height: 178,
-    width: 290,
-    bottom: 0,
-    left: 0,
-    position: 'absolute',
-  },
-});
